@@ -1,0 +1,195 @@
+20260104:输出pyverilog.dataflow.visit.NodeVisitor.visit()函数的迭代过程中的各层级函数名。
+E:\Anaconda3\envs\hw2vec\python.exe E:/PRO/python/HT/hw3vec/examples/use_case_1.py
+hw = ..\assets\TJ-RTL-toy\TjFree\det_1011\topModule.v
+Generating LALR tables
+WARNING: 183 shift/reduce conflicts
+flag0:hw2graph.py:DFGGenerator.process()
+generic_visit : 0 <pyverilog.vparser.ast.Source object at 0x000001BBA2AE3370> - Source
+  generic_visit : 1 <pyverilog.vparser.ast.Description object at 0x000001BBA9D53C40> - Description
+    visit_ModuleDef : 2 <pyverilog.vparser.ast.ModuleDef object at 0x000001BBA9D538B0> - ModuleDef
+      generic_visit : 3 <pyverilog.vparser.ast.Paramlist object at 0x000001BBA9BDC4C0> - Paramlist
+      visit_Portlist : 3 <pyverilog.vparser.ast.Portlist object at 0x000001BBA9BDC100> - Portlist
+      generic_visit : 3 <pyverilog.vparser.ast.Decl object at 0x000001BBA9BDCBB0> - Decl
+        visit_Parameter : 4 <pyverilog.vparser.ast.Parameter object at 0x000001BBA9BDC460> - Parameter
+        visit_Parameter : 4 <pyverilog.vparser.ast.Parameter object at 0x000001BBA9BDC760> - Parameter
+        visit_Parameter : 4 <pyverilog.vparser.ast.Parameter object at 0x000001BBA9BDC7C0> - Parameter
+        visit_Parameter : 4 <pyverilog.vparser.ast.Parameter object at 0x000001BBA9BDC910> - Parameter
+        visit_Parameter : 4 <pyverilog.vparser.ast.Parameter object at 0x000001BBA9BDC580> - Parameter
+      generic_visit : 3 <pyverilog.vparser.ast.Decl object at 0x000001BBA9BDC730> - Decl
+        generic_visit : 4 <pyverilog.vparser.ast.Reg object at 0x000001BBA9BDC610> - Reg
+          generic_visit : 5 <pyverilog.vparser.ast.Width object at 0x000001BBA9BDCE20> - Width
+            generic_visit : 6 2 - IntConst
+            generic_visit : 6 0 - IntConst
+        generic_visit : 4 <pyverilog.vparser.ast.Reg object at 0x000001BBA9D53F40> - Reg
+          generic_visit : 5 <pyverilog.vparser.ast.Width object at 0x000001BBA9BDCE20> - Width
+            generic_visit : 6 2 - IntConst
+            generic_visit : 6 0 - IntConst
+      generic_visit : 3 <pyverilog.vparser.ast.Assign object at 0x000001BBA9D53AF0> - Assign
+        generic_visit : 4 <pyverilog.vparser.ast.Lvalue object at 0x000001BBA9D539A0> - Lvalue
+          generic_visit : 5 out - Identifier
+        generic_visit : 4 <pyverilog.vparser.ast.Rvalue object at 0x000001BBA9CC4F70> - Rvalue
+          generic_visit : 5 (Cond (Eq cur_state S1011) 1 0) - Cond
+            generic_visit : 6 (Eq cur_state S1011) - Eq
+              generic_visit : 7 cur_state - Identifier
+              generic_visit : 7 S1011 - Identifier
+            generic_visit : 6 1 - IntConst
+            generic_visit : 6 0 - IntConst
+      visit_Always : 3 <pyverilog.vparser.ast.Always object at 0x000001BBA9EA9040> - Always
+      visit_Always : 3 <pyverilog.vparser.ast.Always object at 0x000001BBAA0A9B50> - Always
+Ultilities.py:VerilogDataflowAnalyzer.generate:ast=self.parse()
+111
+generic_visit : 0 <pyverilog.vparser.ast.ModuleDef object at 0x000001BBA9D538B0> - ModuleDef
+  generic_visit : 1 <pyverilog.vparser.ast.Paramlist object at 0x000001BBA9BDC4C0> - Paramlist
+  generic_visit : 1 <pyverilog.vparser.ast.Portlist object at 0x000001BBA9BDC100> - Portlist
+    generic_visit : 2 <pyverilog.vparser.ast.Ioport object at 0x000001BBA9BDCAF0> - Ioport
+      visit_Input : 3 <pyverilog.vparser.ast.Input object at 0x000001BBA9BDCA90> - Input
+    generic_visit : 2 <pyverilog.vparser.ast.Ioport object at 0x000001BBA9BDC6D0> - Ioport
+      visit_Input : 3 <pyverilog.vparser.ast.Input object at 0x000001BBA9BDC160> - Input
+    generic_visit : 2 <pyverilog.vparser.ast.Ioport object at 0x000001BBA9BDCC40> - Ioport
+      visit_Input : 3 <pyverilog.vparser.ast.Input object at 0x000001BBA9BDCE50> - Input
+    generic_visit : 2 <pyverilog.vparser.ast.Ioport object at 0x000001BBA9BDCFA0> - Ioport
+      visit_Output : 3 <pyverilog.vparser.ast.Output object at 0x000001BBA9BDC280> - Output
+  generic_visit : 1 <pyverilog.vparser.ast.Decl object at 0x000001BBA9BDCBB0> - Decl
+    visit_Parameter : 2 <pyverilog.vparser.ast.Parameter object at 0x000001BBA9BDC460> - Parameter
+    visit_Parameter : 2 <pyverilog.vparser.ast.Parameter object at 0x000001BBA9BDC760> - Parameter
+    visit_Parameter : 2 <pyverilog.vparser.ast.Parameter object at 0x000001BBA9BDC7C0> - Parameter
+    visit_Parameter : 2 <pyverilog.vparser.ast.Parameter object at 0x000001BBA9BDC910> - Parameter
+    visit_Parameter : 2 <pyverilog.vparser.ast.Parameter object at 0x000001BBA9BDC580> - Parameter
+  generic_visit : 1 <pyverilog.vparser.ast.Decl object at 0x000001BBA9BDC730> - Decl
+    visit_Reg : 2 <pyverilog.vparser.ast.Reg object at 0x000001BBA9BDC610> - Reg
+    visit_Reg : 2 <pyverilog.vparser.ast.Reg object at 0x000001BBA9D53F40> - Reg
+  visit_Assign : 1 <pyverilog.vparser.ast.Assign object at 0x000001BBA9D53AF0> - Assign
+  visit_Always : 1 <pyverilog.vparser.ast.Always object at 0x000001BBA9EA9040> - Always
+    generic_visit : 2 <pyverilog.vparser.ast.SensList object at 0x000001BBA9D53FD0> - SensList
+      generic_visit : 3 <pyverilog.vparser.ast.Sens object at 0x000001BBA9D538E0> - Sens
+        generic_visit : 4 clk - Identifier
+    visit_Block : 2 <pyverilog.vparser.ast.Block object at 0x000001BBA9D53B20> - Block
+      visit_IfStatement : 3 <pyverilog.vparser.ast.IfStatement object at 0x000001BBA9D53D00> - IfStatement
+        visit_NonblockingSubstitution : 4 <pyverilog.vparser.ast.NonblockingSubstitution object at 0x000001BBA9EA9640> - NonblockingSubstitution
+        visit_NonblockingSubstitution : 4 <pyverilog.vparser.ast.NonblockingSubstitution object at 0x000001BBA9EA9A00> - NonblockingSubstitution
+  visit_Always : 1 <pyverilog.vparser.ast.Always object at 0x000001BBAA0A9B50> - Always
+    generic_visit : 2 <pyverilog.vparser.ast.SensList object at 0x000001BBA9D53B50> - SensList
+      generic_visit : 3 <pyverilog.vparser.ast.Sens object at 0x000001BBA9D53CD0> - Sens
+        generic_visit : 4 cur_state - Identifier
+      generic_visit : 3 <pyverilog.vparser.ast.Sens object at 0x000001BBA9D53C70> - Sens
+        generic_visit : 4 in - Identifier
+    visit_Block : 2 <pyverilog.vparser.ast.Block object at 0x000001BBA9EA93A0> - Block
+      visit_CaseStatement : 3 <pyverilog.vparser.ast.CaseStatement object at 0x000001BBAA0A9E50> - CaseStatement
+        visit_Block : 4 <pyverilog.vparser.ast.Block object at 0x000001BBA9EA9A30> - Block
+          visit_IfStatement : 5 <pyverilog.vparser.ast.IfStatement object at 0x000001BBA9EA96D0> - IfStatement
+            visit_BlockingSubstitution : 6 <pyverilog.vparser.ast.BlockingSubstitution object at 0x000001BBA9EA96A0> - BlockingSubstitution
+            visit_BlockingSubstitution : 6 <pyverilog.vparser.ast.BlockingSubstitution object at 0x000001BBAA0A91C0> - BlockingSubstitution
+        visit_Block : 4 <pyverilog.vparser.ast.Block object at 0x000001BBA9EA9F10> - Block
+          visit_IfStatement : 5 <pyverilog.vparser.ast.IfStatement object at 0x000001BBAA0A9280> - IfStatement
+            visit_BlockingSubstitution : 6 <pyverilog.vparser.ast.BlockingSubstitution object at 0x000001BBAA0A9580> - BlockingSubstitution
+            visit_BlockingSubstitution : 6 <pyverilog.vparser.ast.BlockingSubstitution object at 0x000001BBAA0A97F0> - BlockingSubstitution
+        visit_Block : 4 <pyverilog.vparser.ast.Block object at 0x000001BBAA0A9880> - Block
+          visit_IfStatement : 5 <pyverilog.vparser.ast.IfStatement object at 0x000001BBAA0A98B0> - IfStatement
+            visit_BlockingSubstitution : 6 <pyverilog.vparser.ast.BlockingSubstitution object at 0x000001BBAA0A9AF0> - BlockingSubstitution
+            visit_BlockingSubstitution : 6 <pyverilog.vparser.ast.BlockingSubstitution object at 0x000001BBAA0A9D60> - BlockingSubstitution
+        visit_Block : 4 <pyverilog.vparser.ast.Block object at 0x000001BBAA0A9DF0> - Block
+          visit_IfStatement : 5 <pyverilog.vparser.ast.IfStatement object at 0x000001BBAA0A96D0> - IfStatement
+            visit_BlockingSubstitution : 6 <pyverilog.vparser.ast.BlockingSubstitution object at 0x000001BBAA0410D0> - BlockingSubstitution
+            visit_BlockingSubstitution : 6 <pyverilog.vparser.ast.BlockingSubstitution object at 0x000001BBAA041340> - BlockingSubstitution
+        visit_Block : 4 <pyverilog.vparser.ast.Block object at 0x000001BBAA0A9460> - Block
+          visit_BlockingSubstitution : 5 <pyverilog.vparser.ast.BlockingSubstitution object at 0x000001BBAA041490> - BlockingSubstitution
+222
+frametable.dict = top
+visit_ModuleDef : 0 <pyverilog.vparser.ast.ModuleDef object at 0x000001BBA9D538B0> - ModuleDef
+  generic_visit : 1 <pyverilog.vparser.ast.Paramlist object at 0x000001BBA9BDC4C0> - Paramlist
+  generic_visit : 1 <pyverilog.vparser.ast.Portlist object at 0x000001BBA9BDC100> - Portlist
+    generic_visit : 2 <pyverilog.vparser.ast.Ioport object at 0x000001BBA9BDCAF0> - Ioport
+      visit_Input : 3 <pyverilog.vparser.ast.Input object at 0x000001BBA9BDCA90> - Input
+    generic_visit : 2 <pyverilog.vparser.ast.Ioport object at 0x000001BBA9BDC6D0> - Ioport
+      visit_Input : 3 <pyverilog.vparser.ast.Input object at 0x000001BBA9BDC160> - Input
+    generic_visit : 2 <pyverilog.vparser.ast.Ioport object at 0x000001BBA9BDCC40> - Ioport
+      visit_Input : 3 <pyverilog.vparser.ast.Input object at 0x000001BBA9BDCE50> - Input
+    generic_visit : 2 <pyverilog.vparser.ast.Ioport object at 0x000001BBA9BDCFA0> - Ioport
+      visit_Output : 3 <pyverilog.vparser.ast.Output object at 0x000001BBA9BDC280> - Output
+  generic_visit : 1 <pyverilog.vparser.ast.Decl object at 0x000001BBA9BDCBB0> - Decl
+    visit_Parameter : 2 <pyverilog.vparser.ast.Parameter object at 0x000001BBA9BDC460> - Parameter
+    visit_Parameter : 2 <pyverilog.vparser.ast.Parameter object at 0x000001BBA9BDC760> - Parameter
+    visit_Parameter : 2 <pyverilog.vparser.ast.Parameter object at 0x000001BBA9BDC7C0> - Parameter
+    visit_Parameter : 2 <pyverilog.vparser.ast.Parameter object at 0x000001BBA9BDC910> - Parameter
+    visit_Parameter : 2 <pyverilog.vparser.ast.Parameter object at 0x000001BBA9BDC580> - Parameter
+  generic_visit : 1 <pyverilog.vparser.ast.Decl object at 0x000001BBA9BDC730> - Decl
+    visit_Reg : 2 <pyverilog.vparser.ast.Reg object at 0x000001BBA9BDC610> - Reg
+    visit_Reg : 2 <pyverilog.vparser.ast.Reg object at 0x000001BBA9D53F40> - Reg
+  visit_Assign : 1 <pyverilog.vparser.ast.Assign object at 0x000001BBA9D53AF0> - Assign
+  visit_Always : 1 <pyverilog.vparser.ast.Always object at 0x000001BBA9EA9040> - Always
+    generic_visit : 2 <pyverilog.vparser.ast.SensList object at 0x000001BBA9D53FD0> - SensList
+      generic_visit : 3 <pyverilog.vparser.ast.Sens object at 0x000001BBA9D538E0> - Sens
+        generic_visit : 4 clk - Identifier
+    visit_Block : 2 <pyverilog.vparser.ast.Block object at 0x000001BBA9D53B20> - Block
+      visit_IfStatement : 3 <pyverilog.vparser.ast.IfStatement object at 0x000001BBA9D53D00> - IfStatement
+        visit_NonblockingSubstitution : 4 <pyverilog.vparser.ast.NonblockingSubstitution object at 0x000001BBA9EA9640> - NonblockingSubstitution
+        visit_NonblockingSubstitution : 4 <pyverilog.vparser.ast.NonblockingSubstitution object at 0x000001BBA9EA9A00> - NonblockingSubstitution
+  visit_Always : 1 <pyverilog.vparser.ast.Always object at 0x000001BBAA0A9B50> - Always
+    generic_visit : 2 <pyverilog.vparser.ast.SensList object at 0x000001BBA9D53B50> - SensList
+      generic_visit : 3 <pyverilog.vparser.ast.Sens object at 0x000001BBA9D53CD0> - Sens
+        generic_visit : 4 cur_state - Identifier
+      generic_visit : 3 <pyverilog.vparser.ast.Sens object at 0x000001BBA9D53C70> - Sens
+        generic_visit : 4 in - Identifier
+    visit_Block : 2 <pyverilog.vparser.ast.Block object at 0x000001BBA9EA93A0> - Block
+      visit_CaseStatement : 3 <pyverilog.vparser.ast.CaseStatement object at 0x000001BBAA0A9E50> - CaseStatement
+        visit_Block : 4 <pyverilog.vparser.ast.Block object at 0x000001BBA9EA9A30> - Block
+          visit_IfStatement : 5 <pyverilog.vparser.ast.IfStatement object at 0x000001BBA9EA96D0> - IfStatement
+            visit_BlockingSubstitution : 6 <pyverilog.vparser.ast.BlockingSubstitution object at 0x000001BBA9EA96A0> - BlockingSubstitution
+            visit_BlockingSubstitution : 6 <pyverilog.vparser.ast.BlockingSubstitution object at 0x000001BBAA0A91C0> - BlockingSubstitution
+        visit_Block : 4 <pyverilog.vparser.ast.Block object at 0x000001BBA9EA9F10> - Block
+          visit_IfStatement : 5 <pyverilog.vparser.ast.IfStatement object at 0x000001BBAA0A9280> - IfStatement
+            visit_BlockingSubstitution : 6 <pyverilog.vparser.ast.BlockingSubstitution object at 0x000001BBAA0A9580> - BlockingSubstitution
+            visit_BlockingSubstitution : 6 <pyverilog.vparser.ast.BlockingSubstitution object at 0x000001BBAA0A97F0> - BlockingSubstitution
+        visit_Block : 4 <pyverilog.vparser.ast.Block object at 0x000001BBAA0A9880> - Block
+          visit_IfStatement : 5 <pyverilog.vparser.ast.IfStatement object at 0x000001BBAA0A98B0> - IfStatement
+            visit_BlockingSubstitution : 6 <pyverilog.vparser.ast.BlockingSubstitution object at 0x000001BBAA0A9AF0> - BlockingSubstitution
+            visit_BlockingSubstitution : 6 <pyverilog.vparser.ast.BlockingSubstitution object at 0x000001BBAA0A9D60> - BlockingSubstitution
+        visit_Block : 4 <pyverilog.vparser.ast.Block object at 0x000001BBAA0A9DF0> - Block
+          visit_IfStatement : 5 <pyverilog.vparser.ast.IfStatement object at 0x000001BBAA0A96D0> - IfStatement
+            visit_BlockingSubstitution : 6 <pyverilog.vparser.ast.BlockingSubstitution object at 0x000001BBAA0410D0> - BlockingSubstitution
+            visit_BlockingSubstitution : 6 <pyverilog.vparser.ast.BlockingSubstitution object at 0x000001BBAA041340> - BlockingSubstitution
+        visit_Block : 4 <pyverilog.vparser.ast.Block object at 0x000001BBAA0A9460> - Block
+          visit_BlockingSubstitution : 5 <pyverilog.vparser.ast.BlockingSubstitution object at 0x000001BBAA041490> - BlockingSubstitution
+dataflow.terms={top.IDLE: top.IDLE, top.S1: top.S1, top.S10: top.S10, top.S101: top.S101, top.S1011: top.S1011, top.clk: top.clk, top.rstn: top.rstn, top.in: top.in, top.out: top.out, top.cur_state: top.cur_state, top.next_state: top.next_state, top._rn0_next_state: top._rn0_next_state, top._rn1_next_state: top._rn1_next_state, top._rn2_next_state: top._rn2_next_state, top._rn3_next_state: top._rn3_next_state, top._rn4_next_state: top._rn4_next_state, top._rn5_next_state: top._rn5_next_state, top._rn6_next_state: top._rn6_next_state, top._rn7_next_state: top._rn7_next_state, top._rn8_next_state: top._rn8_next_state}
+flag1:hw2graph.py:DFGGenerator.process()
+Binddict={top.IDLE: [<pyverilog.dataflow.dataflow.Bind object at 0x000001BBA9D79D90>], top.S1: [<pyverilog.dataflow.dataflow.Bind object at 0x000001BBA9D6E0A0>], top.S10: [<pyverilog.dataflow.dataflow.Bind object at 0x000001BBA9D6E370>], top.S101: [<pyverilog.dataflow.dataflow.Bind object at 0x000001BBA9D6E640>], top.S1011: [<pyverilog.dataflow.dataflow.Bind object at 0x000001BBA9D6E910>], top.out: [<pyverilog.dataflow.dataflow.Bind object at 0x000001BBA9D715B0>], top.cur_state: [<pyverilog.dataflow.dataflow.Bind object at 0x000001BBAA6A7370>], top._rn0_next_state: [<pyverilog.dataflow.dataflow.Bind object at 0x000001BBAA696970>], top.next_state: [<pyverilog.dataflow.dataflow.Bind object at 0x000001BBAA69F970>], top._rn1_next_state: [<pyverilog.dataflow.dataflow.Bind object at 0x000001BBAA6AAFD0>], top._rn2_next_state: [<pyverilog.dataflow.dataflow.Bind object at 0x000001BBAA69EFD0>], top._rn3_next_state: [<pyverilog.dataflow.dataflow.Bind object at 0x000001BBAA69B4C0>], top._rn4_next_state: [<pyverilog.dataflow.dataflow.Bind object at 0x000001BBAA6B2D00>], top._rn5_next_state: [<pyverilog.dataflow.dataflow.Bind object at 0x000001BBAA6A1400>], top._rn6_next_state: [<pyverilog.dataflow.dataflow.Bind object at 0x000001BBAA69C640>], top._rn7_next_state: [<pyverilog.dataflow.dataflow.Bind object at 0x000001BBAA69A430>], top._rn8_next_state: [<pyverilog.dataflow.dataflow.Bind object at 0x000001BBAA690400>]}
+constlist={top.IDLE: 'd0, top.S1: 'd1, top.S10: 'd2, top.S101: 'd3, top.S1011: 'd4}
+test1
+<class 'networkx.classes.digraph.DiGraph'>
+Node feature dimension: torch.Size([71])
+tensor([[3.5845e-02, 1.3066e-01, 3.2122e-02, 3.4702e-02, 0.0000e+00, 4.3098e-02,
+         3.8104e-02, 9.8966e-02, 3.2145e-02, 2.8873e-02, 2.3924e-02, 1.1631e-01,
+         8.1004e-02, 2.0320e-01, 4.0820e-02, 1.3533e-01, 3.1405e-03, 1.9484e-02,
+         7.0498e-02, 3.2731e-03, 2.0059e-01, 1.6753e-02, 3.3988e-02, 1.7469e-01,
+         8.1396e-02, 0.0000e+00, 3.3124e-03, 1.8157e-01, 1.4907e-03, 1.1126e-01,
+         4.1102e-02, 3.2205e-02, 1.8985e-01, 4.8317e-03, 0.0000e+00, 1.2434e-01,
+         9.2388e-02, 1.9766e-01, 0.0000e+00, 0.0000e+00, 2.5083e-02, 9.1915e-02,
+         1.4291e-02, 1.1493e-02, 1.0104e-01, 1.1341e-01, 9.1905e-02, 0.0000e+00,
+         3.3013e-02, 4.9946e-02, 7.0371e-02, 3.3184e-02, 3.9813e-02, 0.0000e+00,
+         5.0673e-03, 3.0486e-02, 7.2404e-03, 0.0000e+00, 4.1180e-02, 1.2730e-02,
+         3.1962e-03, 1.3434e-03, 8.9097e-02, 2.3437e-02, 2.8224e-02, 4.1003e-02,
+         6.6530e-02, 0.0000e+00, 2.2135e-02, 1.7162e-02, 1.5109e-01, 1.4401e-01,
+         2.2141e-04, 0.0000e+00, 2.0851e-04, 0.0000e+00, 5.3783e-02, 7.3315e-02,
+         9.1799e-02, 0.0000e+00, 0.0000e+00, 0.0000e+00, 9.5692e-02, 1.0491e-03,
+         6.1596e-02, 1.4707e-01, 5.7723e-03, 0.0000e+00, 1.4360e-01, 0.0000e+00,
+         7.6248e-02, 8.8940e-02, 0.0000e+00, 2.6053e-01, 8.1691e-02, 1.1351e-01,
+         1.8635e-02, 1.8976e-03, 1.8195e-02, 0.0000e+00, 0.0000e+00, 6.6770e-03,
+         4.3741e-02, 3.2640e-02, 1.0616e-01, 6.2522e-02, 6.8596e-02, 4.5842e-02,
+         0.0000e+00, 3.3010e-02, 0.0000e+00, 0.0000e+00, 0.0000e+00, 0.0000e+00,
+         1.0742e-01, 7.6100e-02, 1.1341e-01, 4.3324e-02, 1.6225e-01, 4.2571e-02,
+         0.0000e+00, 3.4860e-02, 4.6491e-02, 0.0000e+00, 0.0000e+00, 8.5549e-02,
+         9.5194e-02, 1.2780e-02, 2.3690e-01, 1.2178e-01, 7.0535e-02, 0.0000e+00,
+         5.3496e-02, 7.0600e-02, 1.9468e-01, 1.0132e-01, 7.7859e-03, 1.0214e-02,
+         2.4284e-03, 4.7480e-02, 1.3524e-01, 1.6530e-02, 3.0037e-02, 2.0703e-02,
+         9.4569e-02, 2.0521e-04, 9.2380e-02, 0.0000e+00, 1.4793e-02, 2.5463e-02,
+         4.6737e-02, 8.3517e-02, 4.3980e-02, 1.7551e-01, 0.0000e+00, 2.1471e-01,
+         4.4084e-02, 4.8101e-02, 1.0210e-02, 1.5924e-02, 9.8629e-02, 2.8550e-02,
+         4.8519e-02, 4.5381e-02, 5.3542e-02, 1.1605e-01, 1.6996e-01, 0.0000e+00,
+         5.0162e-02, 9.9272e-02, 0.0000e+00, 1.3361e-01, 3.8342e-02, 1.1839e-01,
+         1.0659e-01, 3.7236e-02, 4.7578e-03, 3.7100e-03, 6.8381e-02, 2.8913e-02,
+         3.0601e-02, 1.5903e-01, 1.2788e-01, 2.2846e-03, 0.0000e+00, 3.4346e-02,
+         2.1801e-02, 1.0827e-02, 1.6079e-01, 9.3187e-02, 2.4045e-02, 0.0000e+00,
+         2.3399e-02, 2.7326e-01, 0.0000e+00, 5.8831e-02, 7.4835e-02, 1.6541e-02,
+         3.8300e-02, 6.0199e-02]], grad_fn=<CppNode<class ScatterMax>>)
+
+Process finished with exit code 0

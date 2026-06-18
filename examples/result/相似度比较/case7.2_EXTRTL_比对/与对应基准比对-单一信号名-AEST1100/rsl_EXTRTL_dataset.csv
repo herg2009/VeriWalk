@@ -1,0 +1,10 @@
+idx,circuit_name,signal_name,node_count,edge_count,similarity,label,label_by,notes
+# 说明：label列初始为空，0=正常，1=木马；label_by标注者；notes备注
+0,"AES-T1100","top.Trigger.State0",12,11,0.7826,,"","待标注"
+1,"AES-T1100","top.Trigger.State1",19,20,0.8101,,"","待标注"
+2,"AES-T1100","top.Trigger.State2",26,29,0.8102,,"","待标注"
+3,"AES-T1100","top.Trigger.State3",33,38,0.7929,,"","待标注"
+4,"AES-T1100","top.Trigger.Tj_Trig",8,7,0.3293,,"","待标注"
+5,"AES-T1100","top.Trojan.lfsr.d0",17,19,0.9782,,"","待标注"
+6,"AES-T1100","top.Trojan.lfsr.lfsr_stream",17,17,0.4957,,"","待标注"
+7,"AES-T1100","top.Trojan.load",452,577,0.9348,,"","待标注"

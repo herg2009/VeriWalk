@@ -1,0 +1,116 @@
+================================================================================
+RTL特征集统计报告
+================================================================================
+数据目录: Z:\vmshare\GW3\outputs\rtl_dfg_subgraphs
+数据集: ALLRTL
+
+[OK] 检测结果文件: ALLRTL_detection_results.pkl
+     文件大小: 290.90 MB
+
+检测结果包含的键:
+  - graph_embds_0: 1107 个元素
+  - graph_embds_1: 442 个元素
+  - nx_subgraphs_0: 1107 个元素
+  - nx_subgraphs_1: 442 个元素
+  - similarities_0: 0 个元素
+  - similarities_1: 442 个元素
+  - similarities: 33432050 个元素
+
+================================================================================
+特征集详细统计
+================================================================================
+
+[正常集 (graph_embds_0 / nx_subgraphs_0)]
+  - 嵌入向量数: 1107
+  - 子图数: 1107
+
+[木马集 (graph_embds_1 / nx_subgraphs_1)]
+  - 嵌入向量数: 442
+  - 子图数: 442
+  - 相似度统计: min=0.0831, max=0.9624, mean=0.4332
+
+[木马子图规模统计]
+  - 节点数: min=3, max=516, mean=32.0
+  - 边数: min=2, max=641, mean=38.5
+
+================================================================================
+按电路分存的子图数据
+================================================================================
+
+总共 58 个电路文件
+
+[基准电路 (TjFree)]: 11 个
+  - ALLRTL_AES.pkl                           ( 1258.02 KB)
+  - ALLRTL_det_1011.pkl                      (    7.76 KB)
+  - ALLRTL_PIC16F84.pkl                      (  546.02 KB)
+  - ALLRTL_RC5.pkl                           (  385.63 KB)
+  - ALLRTL_RC6.pkl                           (  425.56 KB)
+  - ALLRTL_RS232.pkl                         (  113.25 KB)
+  - ALLRTL_spi_master.pkl                    (   27.73 KB)
+  - ALLRTL_syncRAM.pkl                       (    4.15 KB)
+  - ALLRTL_vga.pkl                           (    8.09 KB)
+  - ALLRTL_wb_conmax.pkl                     (10515.91 KB)
+  - ALLRTL_xtea.pkl                          (  397.05 KB)
+
+[变体电路 (TjIn)]: 47 个
+  - ALLRTL_AES-T100.pkl                      ( 1354.34 KB)
+  - ALLRTL_AES-T1000.pkl                     ( 1358.58 KB)
+  - ALLRTL_AES-T1100.pkl                     ( 1373.61 KB)
+  - ALLRTL_AES-T1200.pkl                     ( 1359.74 KB)
+  - ALLRTL_AES-T1300.pkl                     ( 1390.16 KB)
+  - ALLRTL_AES-T1400.pkl                     ( 1405.48 KB)
+  - ALLRTL_AES-T1500.pkl                     ( 1391.60 KB)
+  - ALLRTL_AES-T1600.pkl                     ( 1296.88 KB)
+  - ALLRTL_AES-T1700.pkl                     ( 1275.69 KB)
+  - ALLRTL_AES-T1800.pkl                     ( 1263.79 KB)
+  - ALLRTL_AES-T1900.pkl                     ( 1265.21 KB)
+  - ALLRTL_AES-T200.pkl                      ( 1355.07 KB)
+  - ALLRTL_AES-T2000.pkl                     ( 1285.49 KB)
+  - ALLRTL_AES-T2100.pkl                     ( 1271.60 KB)
+  - ALLRTL_AES-T2300.pkl                     ( 1262.44 KB)
+  - ALLRTL_AES-T2400.pkl                     ( 1262.44 KB)
+  - ALLRTL_AES-T2500.pkl                     ( 1262.59 KB)
+  - ALLRTL_AES-T2600.pkl                     ( 1264.76 KB)
+  - ALLRTL_AES-T2700.pkl                     ( 1267.22 KB)
+  - ALLRTL_AES-T2800.pkl                     ( 1268.14 KB)
+  - ALLRTL_AES-T300.pkl                      ( 1385.36 KB)
+  - ALLRTL_AES-T400.pkl                      ( 1280.62 KB)
+  - ALLRTL_AES-T500.pkl                      ( 1279.03 KB)
+  - ALLRTL_AES-T600.pkl                      ( 1276.45 KB)
+  - ALLRTL_AES-T700.pkl                      ( 1368.66 KB)
+  - ALLRTL_AES-T800.pkl                      ( 1384.02 KB)
+  - ALLRTL_AES-T900.pkl                      ( 1370.15 KB)
+  - ALLRTL_PIC16F84-T100.pkl                 (  563.80 KB)
+  - ALLRTL_PIC16F84-T200.pkl                 (  564.33 KB)
+  - ALLRTL_PIC16F84-T300.pkl                 (  564.33 KB)
+  - ALLRTL_PIC16F84-T400.pkl                 (  564.33 KB)
+  - ALLRTL_RS232-T100.pkl                    (  131.73 KB)
+  - ALLRTL_RS232-T200.pkl                    (  133.64 KB)
+  - ALLRTL_RS232-T2100.pkl                   (  123.15 KB)
+  - ALLRTL_RS232-T2200.pkl                   (  123.19 KB)
+  - ALLRTL_RS232-T2300.pkl                   (  123.99 KB)
+  - ALLRTL_RS232-T2400.pkl                   (  130.74 KB)
+  - ALLRTL_RS232-T300.pkl                    (  118.51 KB)
+  - ALLRTL_RS232-T400.pkl                    (  124.09 KB)
+  - ALLRTL_RS232-T500.pkl                    (  122.34 KB)
+  - ALLRTL_RS232-T600.pkl                    (  146.13 KB)
+  - ALLRTL_RS232-T700.pkl                    (  146.13 KB)
+  - ALLRTL_RS232-T800.pkl                    (  153.64 KB)
+  - ALLRTL_RS232-T900.pkl                    (  136.41 KB)
+  - ALLRTL_RS232-T901.pkl                    (  155.20 KB)
+  - ALLRTL_wb_conmax-T200.pkl                (10522.29 KB)
+  - ALLRTL_wb_conmax-T300.pkl                (10533.49 KB)
+
+================================================================================
+电路pkl文件结构示例
+================================================================================
+
+采样文件: ALLRTL_AES-T100.pkl
+包含的键:
+  - circuit_name: AES-T100
+  - subset: TjIn
+  - nx_graph: nx_graph, nodes=8342, edges=7218
+  - nx_subgraphs: 1110 个元素
+  - n_subgraphs: 1110
+  - n_nodes: 8342
+  - n_edges: 7218

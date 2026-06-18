@@ -1,0 +1,1602 @@
+[1/135] AES-T100:1110 len_in=1110 
+    1107     17   19  0.566 top.Trojan.lfsr.d0_rn_0
+    1108     12   11  0.245 top.Trojan.lfsr.lfsr_stream_rn_0
+    1109    452  577  0.269 top.Trojan.load_rn_0
+    个数:1228770,top1%=(0.985: 1107),区间[-0.463- 1.000],sum= 150069.7,mean= 0.122,方差=0.0467,标准差=0.2161
+[2/135] AES-T1000:1111 len_in=1111 
+    1107     12   11  0.203 top.Trigger.Tj_Trig_rn_0
+    1108     17   19  0.397 top.Trojan.lfsr.d0_rn_0
+    1109     19   19  0.264 top.Trojan.lfsr.lfsr_stream_rn_0
+    1110    452  577  0.292 top.Trojan.load_rn_0
+    个数:1229877,top1%=(0.986: 1107),区间[-0.382- 1.000],sum= 227225.6,mean= 0.185,方差=0.0502,标准差=0.2241
+[3/135] AES-T1100:1115 len_in=1115 
+    1107     12   11  0.260 top.Trigger.State0_rn_0
+    1108     19   20  0.219 top.Trigger.State1_rn_0
+    1109     26   29  0.218 top.Trigger.State2_rn_0
+    1110     33   38  0.248 top.Trigger.State3_rn_0
+    1111      8    7  0.194 top.Trigger.Tj_Trig_rn_0
+    1112     17   19  0.557 top.Trojan.lfsr.d0_rn_0
+    1113     17   17  0.259 top.Trojan.lfsr.lfsr_stream_rn_0
+    1114    452  577  0.272 top.Trojan.load_rn_0
+    个数:1234305,top1%=(0.986: 1107),区间[-0.401- 1.000],sum= 151354.5,mean= 0.123,方差=0.0401,标准差=0.2001
+[4/135] AES-T1200:1112 len_in=1112 
+    1107      9    8  0.262 top.Trigger.Counter_rn_0
+    1108     12   11  0.208 top.Trigger.Tj_Trig_rn_0
+    1109     17   19  0.582 top.Trojan.lfsr.d0_rn_0
+    1110     17   17  0.269 top.Trojan.lfsr.lfsr_stream_rn_0
+    1111    452  577  0.326 top.Trojan.load_rn_0
+    个数:1230984,top1%=(0.985: 1107),区间[-0.516- 1.000],sum= 218318.4,mean= 0.177,方差=0.0582,标准差=0.2412
+[5/135] AES-T1300:1124 len_in=1124 
+    1107     12   11  0.261 top.Trigger.Tj_Trig_rn_0
+    1108     68   81  0.696 top.Trojan.enable1_rn_0
+    1109     68   81  0.697 top.Trojan.enable2_rn_0
+    1110     68   81  0.699 top.Trojan.enable3_rn_0
+    1111     68   81  0.689 top.Trojan.enable4_rn_0
+    1112     68   81  0.716 top.Trojan.enable5_rn_0
+    1113     68   81  0.702 top.Trojan.enable6_rn_0
+    1114     68   81  0.712 top.Trojan.enable7_rn_0
+    1115     68   81  0.706 top.Trojan.enable8_rn_0
+    1116     18   19  0.280 top.Trojan.SHReg1_rn_0
+    1117     18   19  0.251 top.Trojan.SHReg2_rn_0
+    1118     18   19  0.321 top.Trojan.SHReg3_rn_0
+    1119     18   19  0.278 top.Trojan.SHReg4_rn_0
+    1120     18   19  0.239 top.Trojan.SHReg5_rn_0
+    1121     18   19  0.300 top.Trojan.SHReg6_rn_0
+    1122     18   19  0.240 top.Trojan.SHReg7_rn_0
+    1123     18   19  0.278 top.Trojan.SHReg8_rn_0
+    个数:1244268,top1%=(0.983: 1107),区间[-0.656- 1.000],sum= 242453.5,mean= 0.195,方差=0.0617,标准差=0.2484
+[6/135] AES-T1400:1128 len_in=1128 
+    1107     12   11  0.291 top.Trigger.State0_rn_0
+    1108     19   20  0.240 top.Trigger.State1_rn_0
+    1109     26   29  0.282 top.Trigger.State2_rn_0
+    1110     33   38  0.311 top.Trigger.State3_rn_0
+    1111      8    7  0.251 top.Trigger.Tj_Trig_rn_0
+    1112     68   81  0.628 top.Trojan.enable1_rn_0
+    1113     68   81  0.645 top.Trojan.enable2_rn_0
+    1114     68   81  0.625 top.Trojan.enable3_rn_0
+    1115     68   81  0.635 top.Trojan.enable4_rn_0
+    1116     68   81  0.637 top.Trojan.enable5_rn_0
+    1117     68   81  0.636 top.Trojan.enable6_rn_0
+    1118     68   81  0.629 top.Trojan.enable7_rn_0
+    1119     68   81  0.604 top.Trojan.enable8_rn_0
+    1120     18   19  0.255 top.Trojan.SHReg1_rn_0
+    1121     18   19  0.307 top.Trojan.SHReg2_rn_0
+    1122     18   19  0.293 top.Trojan.SHReg3_rn_0
+    1123     18   19  0.372 top.Trojan.SHReg4_rn_0
+    1124     18   19  0.343 top.Trojan.SHReg5_rn_0
+    1125     18   19  0.311 top.Trojan.SHReg6_rn_0
+    1126     18   19  0.380 top.Trojan.SHReg7_rn_0
+    1127     18   19  0.308 top.Trojan.SHReg8_rn_0
+    个数:1248696,top1%=(0.984: 1107),区间[-0.585- 1.000],sum= 201932.1,mean= 0.162,方差=0.0508,标准差=0.2255
+[7/135] AES-T1500:1125 len_in=1125 
+    1107      9    8  0.361 top.Trigger.Counter_rn_0
+    1108     12   11  0.348 top.Trigger.Tj_Trig_rn_0
+    1109     68   81  0.654 top.Trojan.enable1_rn_0
+    1110     68   81  0.673 top.Trojan.enable2_rn_0
+    1111     68   81  0.660 top.Trojan.enable3_rn_0
+    1112     68   81  0.658 top.Trojan.enable4_rn_0
+    1113     68   81  0.650 top.Trojan.enable5_rn_0
+    1114     68   81  0.655 top.Trojan.enable6_rn_0
+    1115     68   81  0.648 top.Trojan.enable7_rn_0
+    1116     68   81  0.646 top.Trojan.enable8_rn_0
+    1117     18   19  0.221 top.Trojan.SHReg1_rn_0
+    1118     18   19  0.258 top.Trojan.SHReg2_rn_0
+    1119     18   19  0.298 top.Trojan.SHReg3_rn_0
+    1120     18   19  0.226 top.Trojan.SHReg4_rn_0
+    1121     18   19  0.209 top.Trojan.SHReg5_rn_0
+    1122     18   19  0.218 top.Trojan.SHReg6_rn_0
+    1123     18   19  0.225 top.Trojan.SHReg7_rn_0
+    1124     18   19  0.238 top.Trojan.SHReg8_rn_0
+    个数:1245375,top1%=(0.984: 1107),区间[-0.551- 1.000],sum= 162809.6,mean= 0.131,方差=0.0519,标准差=0.2278
+[8/135] AES-T1600:1122 len_in=1122 
+    1107      8    7  0.190 top.Tj_Trigger.Detected_rn_0
+    1108     12   11  0.289 top.Tj_Trigger.State0_rn_0
+    1109     19   20  0.189 top.Tj_Trigger.State1_rn_0
+    1110     26   29  0.245 top.Tj_Trigger.State2_rn_0
+    1111     33   38  0.230 top.Tj_Trigger.State3_rn_0
+    1112     15   15  0.205 top.Tj_Trigger.tempClk1_rn_0
+    1113     23   24  0.310 top.Tj_Trigger.tempClk2_rn_0
+    1114      4    3  0.186 top.Tj_Trigger.Tj_Trig_rn_0
+    1115      6    5  0.318 top.TSC.Antena_rn_0
+    1116     13   12  0.300 top.TSC.Baud8GeneratorACC_rn_0
+    1117     14   15  0.294 top.TSC.beep1_rn_0
+    1118     20   21  0.227 top.TSC.beep2_rn_0
+    1119      4    3  0.337 top.TSC.beeps_rn_0
+    1120     11   11  0.247 top.TSC.MUX_Sel_rn_0
+    1121      9    8  0.350 top.TSC.SHIFTReg_rn_0
+    个数:1242054,top1%=(0.985: 1107),区间[-0.468- 1.000],sum= 232640.8,mean= 0.187,方差=0.0462,标准差=0.2150
+[9/135] AES-T1700:1116 len_in=1116 
+    1107      9    8  0.218 top.Tj_Trigger.Counter_rn_0
+    1108     12   11  0.211 top.Tj_Trigger.Tj_Trig_rn_0
+    1109      6    5  0.186 top.TSC.Antena_rn_0
+    1110     13   12  0.200 top.TSC.Baud8GeneratorACC_rn_0
+    1111     14   15  0.180 top.TSC.beep1_rn_0
+    1112     20   21  0.219 top.TSC.beep2_rn_0
+    1113      4    3  0.185 top.TSC.beeps_rn_0
+    1114     11   11  0.315 top.TSC.MUX_Sel_rn_0
+    1115      9    8  0.214 top.TSC.SHIFTReg_rn_0
+    个数:1235412,top1%=(0.986: 1107),区间[-0.438- 1.000],sum= 188529.0,mean= 0.153,方差=0.0370,标准差=0.1924
+[10/135] AES-T1800:1109 len_in=1109 
+    1107     18   19  0.222 top.Trojan.DynamicPower_rn_0
+    1108     12   11  0.203 top.Trojan.Tj_Trig_rn_0
+    个数:1227663,top1%=(0.986: 1107),区间[-0.379- 1.000],sum= 190045.8,mean= 0.155,方差=0.0289,标准差=0.1701
+[11/135] AES-T1900:1110 len_in=1110 
+    1107      9    8  0.312 top.Trojan.Counter_rn_0
+    1108     18   19  0.271 top.Trojan.DynamicPower_rn_0
+    1109     12   11  0.265 top.Trojan.Tj_Trig_rn_0
+    个数:1228770,top1%=(0.985: 1107),区间[-0.471- 1.000],sum= 224961.1,mean= 0.183,方差=0.0493,标准差=0.2221
+[12/135] AES-T200:1110 len_in=1110 
+    1107     17   19  0.402 top.Trojan.lfsr.d0_rn_0
+    1108     15   14  0.212 top.Trojan.lfsr.lfsr_stream_rn_0
+    1109    452  577  0.357 top.Trojan.load_rn_0
+    个数:1228770,top1%=(0.985: 1107),区间[-0.525- 1.000],sum= 227527.0,mean= 0.185,方差=0.0467,标准差=0.2162
+[13/135] AES-T2000:1126 len_in=1126 
+    1107     12   11  0.356 top.Trigger.State0_rn_0
+    1108     19   20  0.422 top.Trigger.State1_rn_0
+    1109     26   29  0.378 top.Trigger.State2_rn_0
+    1110     33   38  0.351 top.Trigger.State3_rn_0
+    1111      8    7  0.213 top.Trigger.Tj_Trig_rn_0
+    1112      9    8  0.382 top.Trojan.COUNTER_rn_0
+    1113      3    2  0.272 top.Trojan.INV10_out_rn_0
+    1114      3    2  0.267 top.Trojan.INV11_out_rn_0
+    1115      3    2  0.240 top.Trojan.INV1_out_rn_0
+    1116      3    2  0.286 top.Trojan.INV2_out_rn_0
+    1117      3    2  0.250 top.Trojan.INV3_out_rn_0
+    1118      3    2  0.247 top.Trojan.INV4_out_rn_0
+    1119      3    2  0.246 top.Trojan.INV5_out_rn_0
+    1120      3    2  0.208 top.Trojan.INV6_out_rn_0
+    1121      3    2  0.315 top.Trojan.INV7_out_rn_0
+    1122      3    2  0.220 top.Trojan.INV8_out_rn_0
+    1123      3    2  0.239 top.Trojan.INV9_out_rn_0
+    1124      5    4  0.674 top.Trojan.LEAKBit_rn_0
+    1125      9    8  0.228 top.Trojan.SECRETKey_rn_0
+    个数:1246482,top1%=(0.985: 1107),区间[-0.537- 1.000],sum= 154278.5,mean= 0.124,方差=0.0818,标准差=0.2860
+[14/135] AES-T2100:1123 len_in=1123 
+    1107      9    8  0.216 top.Trigger.Counter_rn_0
+    1108     12   11  0.215 top.Trigger.Tj_Trig_rn_0
+    1109      9    8  0.225 top.Trojan.COUNTER_rn_0
+    1110      3    2  0.329 top.Trojan.INV10_out_rn_0
+    1111      3    2  0.242 top.Trojan.INV11_out_rn_0
+    1112      3    2  0.326 top.Trojan.INV1_out_rn_0
+    1113      3    2  0.200 top.Trojan.INV2_out_rn_0
+    1114      3    2  0.238 top.Trojan.INV3_out_rn_0
+    1115      3    2  0.248 top.Trojan.INV4_out_rn_0
+    1116      3    2  0.296 top.Trojan.INV5_out_rn_0
+    1117      3    2  0.253 top.Trojan.INV6_out_rn_0
+    1118      3    2  0.208 top.Trojan.INV7_out_rn_0
+    1119      3    2  0.229 top.Trojan.INV8_out_rn_0
+    1120      3    2  0.254 top.Trojan.INV9_out_rn_0
+    1121      5    4  0.516 top.Trojan.LEAKBit_rn_0
+    1122      9    8  0.229 top.Trojan.SECRETKey_rn_0
+    个数:1243161,top1%=(0.986: 1107),区间[-0.404- 1.000],sum= 252648.9,mean= 0.203,方差=0.0399,标准差=0.1997
+[15/135] AES-T2300:1111 len_in=1111 
+     240     11   11  0.366 top.AES.out_rn_0
+    1108      5    4  0.396 top.AES.Trojan.r1_rn_0
+    1109      5    4  0.479 top.AES.Trojan.r2_rn_0
+    1110      4    3  0.229 top.AES.Trojan.trigger_rn_0
+    个数:1229877,top1%=(0.985: 1107),区间[-0.458- 1.000],sum= 114214.5,mean= 0.093,方差=0.0378,标准差=0.1944
+[16/135] AES-T2400:1111 len_in=1111 
+     240     11   11  0.612 top.AES.out_rn_0
+    1108      5    4  0.614 top.AES.Trojan.r1_rn_0
+    1109      5    4  0.621 top.AES.Trojan.r2_rn_0
+    1110      4    3  0.302 top.AES.Trojan.trigger_rn_0
+    个数:1229877,top1%=(0.985: 1107),区间[-0.518- 1.000],sum= 321010.8,mean= 0.261,方差=0.0532,标准差=0.2307
+[17/135] AES-T2500:1110 len_in=1110 
+     240     11   11  0.430 top.AES.out_rn_0
+    1108      8    7  0.233 top.AES.Trojan.counter_rn_0
+    1109      5    4  0.477 top.AES.Trojan.trigger_rn_0
+    个数:1228770,top1%=(0.985: 1107),区间[-0.519- 1.000],sum= 187023.9,mean= 0.152,方差=0.0482,标准差=0.2195
+[18/135] AES-T2600:1111 len_in=1111 
+     240     11   11  0.348 top.AES.out_rn_0
+    1108     15   16  0.348 top.AES.Trojan.counter_rn_0
+    1109      5    4  0.457 top.AES.Trojan.r1_rn_0
+    1110      5    4  0.412 top.AES.Trojan.trigger_rn_0
+    个数:1229877,top1%=(0.985: 1107),区间[-0.511- 1.000],sum= 128172.1,mean= 0.104,方差=0.0445,标准差=0.2110
+[19/135] AES-T2700:1111 len_in=1111 
+     240     11   11  0.386 top.AES.out_rn_0
+    1108      8    7  0.261 top.AES.Trojan.counter_rn_0
+    1109     25   29  0.228 top.AES.Trojan.counter2_rn_0
+    1110      5    4  0.452 top.AES.Trojan.trigger_rn_0
+    个数:1229877,top1%=(0.986: 1107),区间[-0.414- 1.000],sum= 204411.6,mean= 0.166,方差=0.0349,标准差=0.1868
+[20/135] AES-T2800:1114 len_in=1114 
+     240     11   11  0.389 top.AES.out_rn_0
+    1108      9    8  0.219 top.AES.Trojan.andOut_rn_0
+    1109      8    7  0.276 top.AES.Trojan.counter_rn_0
+    1110     13   14  0.249 top.AES.Trojan.counter2_rn_0
+    1111      5    4  0.574 top.AES.Trojan.r1_rn_0
+    1112      5    4  0.540 top.AES.Trojan.r2_rn_0
+    1113      5    4  0.409 top.AES.Trojan.trigger_rn_0
+    个数:1233198,top1%=(0.986: 1107),区间[-0.423- 1.000],sum= 177146.9,mean= 0.144,方差=0.0367,标准差=0.1915
+[21/135] AES-T300:1123 len_in=1123 
+    1107     66   79  0.748 top.Trojan.enable1_rn_0
+    1108     66   79  0.751 top.Trojan.enable2_rn_0
+    1109     66   79  0.761 top.Trojan.enable3_rn_0
+    1110     66   79  0.749 top.Trojan.enable4_rn_0
+    1111     66   79  0.753 top.Trojan.enable5_rn_0
+    1112     66   79  0.751 top.Trojan.enable6_rn_0
+    1113     66   79  0.754 top.Trojan.enable7_rn_0
+    1114     66   79  0.752 top.Trojan.enable8_rn_0
+    1115     18   19  0.287 top.Trojan.SHReg1_rn_0
+    1116     18   19  0.317 top.Trojan.SHReg2_rn_0
+    1117     18   19  0.291 top.Trojan.SHReg3_rn_0
+    1118     18   19  0.293 top.Trojan.SHReg4_rn_0
+    1119     18   19  0.260 top.Trojan.SHReg5_rn_0
+    1120     18   19  0.309 top.Trojan.SHReg6_rn_0
+    1121     18   19  0.322 top.Trojan.SHReg7_rn_0
+    1122     18   19  0.237 top.Trojan.SHReg8_rn_0
+    个数:1243161,top1%=(0.983: 1107),区间[-0.708- 1.000],sum= 173163.0,mean= 0.139,方差=0.0867,标准差=0.2944
+[22/135] AES-T400:1118 len_in=1118 
+    1107      7    6  0.238 top.Tj_Trigger.Detected_rn_0
+    1108     23   24  0.239 top.Tj_Trigger.tempClk1_rn_0
+    1109     16   15  0.286 top.Tj_Trigger.tempClk2_rn_0
+    1110      4    3  0.277 top.Tj_Trigger.Tj_Trig_rn_0
+    1111      6    5  0.236 top.TSC.Antena_rn_0
+    1112     13   12  0.281 top.TSC.Baud8GeneratorACC_rn_0
+    1113     14   15  0.221 top.TSC.beep1_rn_0
+    1114     20   21  0.269 top.TSC.beep2_rn_0
+    1115      4    3  0.262 top.TSC.beeps_rn_0
+    1116     11   11  0.202 top.TSC.MUX_Sel_rn_0
+    1117      9    8  0.217 top.TSC.SHIFTReg_rn_0
+    个数:1237626,top1%=(0.985: 1107),区间[-0.452- 1.000],sum= 168935.6,mean= 0.136,方差=0.0320,标准差=0.1788
+[23/135] AES-T500:1113 len_in=1113 
+    1107     18   19  0.185 top.Trojan.DynamicPower_rn_0
+    1108     12   11  0.332 top.Trojan.State0_rn_0
+    1109     19   20  0.263 top.Trojan.State1_rn_0
+    1110     26   29  0.150 top.Trojan.State2_rn_0
+    1111     33   38  0.229 top.Trojan.State3_rn_0
+    1112      8    7  0.262 top.Trojan.Tj_Trig_rn_0
+    个数:1232091,top1%=(0.985: 1107),区间[-0.499- 1.000],sum= 177021.8,mean= 0.144,方差=0.0479,标准差=0.2189
+[24/135] AES-T600:1125 len_in=1125 
+    1107      7    6  0.287 top.Trigger.Detected_rn_0
+    1108     23   24  0.241 top.Trigger.tempClk1_rn_0
+    1109     16   15  0.298 top.Trigger.tempClk2_rn_0
+    1110      4    3  0.284 top.Trigger.Tj_Trig_rn_0
+    1111      9    8  0.320 top.Trojan.COUNTER_rn_0
+    1112      3    2  0.254 top.Trojan.INV10_out_rn_0
+    1113      3    2  0.255 top.Trojan.INV11_out_rn_0
+    1114      3    2  0.209 top.Trojan.INV1_out_rn_0
+    1115      3    2  0.238 top.Trojan.INV2_out_rn_0
+    1116      3    2  0.259 top.Trojan.INV3_out_rn_0
+    1117      3    2  0.309 top.Trojan.INV4_out_rn_0
+    1118      3    2  0.306 top.Trojan.INV5_out_rn_0
+    1119      3    2  0.297 top.Trojan.INV6_out_rn_0
+    1120      3    2  0.309 top.Trojan.INV7_out_rn_0
+    1121      3    2  0.240 top.Trojan.INV8_out_rn_0
+    1122      3    2  0.326 top.Trojan.INV9_out_rn_0
+    1123      5    4  0.681 top.Trojan.LEAKBit_rn_0
+    1124      9    8  0.262 top.Trojan.SECRETKey_rn_0
+    个数:1245375,top1%=(0.985: 1107),区间[-0.459- 1.000],sum= 111899.4,mean= 0.090,方差=0.0425,标准差=0.2062
+[25/135] AES-T700:1111 len_in=1111 
+    1107     12   11  0.234 top.Trigger.Tj_Trig_rn_0
+    1108     17   19  0.512 top.Trojan.lfsr.d0_rn_0
+    1109     16   16  0.353 top.Trojan.lfsr.lfsr_stream_rn_0
+    1110    516  641  0.234 top.Trojan.load_rn_0
+    个数:1229877,top1%=(0.984: 1107),区间[-0.577- 1.000],sum= 273007.0,mean= 0.222,方差=0.0711,标准差=0.2666
+[26/135] AES-T800:1115 len_in=1115 
+    1107     12   11  0.266 top.Trigger.State0_rn_0
+    1108     19   20  0.180 top.Trigger.State1_rn_0
+    1109     26   29  0.178 top.Trigger.State2_rn_0
+    1110     33   38  0.174 top.Trigger.State3_rn_0
+    1111      8    7  0.194 top.Trigger.Tj_Trig_rn_0
+    1112     17   19  0.529 top.Trojan.lfsr.d0_rn_0
+    1113     16   16  0.194 top.Trojan.lfsr.lfsr_stream_rn_0
+    1114    516  641  0.192 top.Trojan.load_rn_0
+    个数:1234305,top1%=(0.986: 1107),区间[-0.384- 1.000],sum= 303885.6,mean= 0.246,方差=0.0409,标准差=0.2023
+[27/135] AES-T900:1112 len_in=1112 
+    1107      9    8  0.324 top.Trigger.Counter_rn_0
+    1108     12   11  0.364 top.Trigger.Tj_Trig_rn_0
+    1109     17   19  0.451 top.Trojan.lfsr.d0_rn_0
+    1110     16   16  0.288 top.Trojan.lfsr.lfsr_stream_rn_0
+    1111    516  641  0.198 top.Trojan.load_rn_0
+    个数:1230984,top1%=(0.985: 1107),区间[-0.497- 1.000],sum= 328897.3,mean= 0.267,方差=0.0550,标准差=0.2344
+[28/135] PIC16F84-T100: 133 len_in= 133 
+      23     89  109  0.272 top.Counter_rn_0
+      89      8    8  0.278 top.prog_adr_o_rn_0
+    个数:  17423,top1%=(0.987:  131),区间[-0.299- 1.000],sum=   2165.5,mean= 0.124,方差=0.0482,标准差=0.2196
+[29/135] PIC16F84-T200: 133 len_in= 133 
+      23     89  109  0.265 top.Counter_rn_0
+      57     23   30  0.901 top.inst_reg_rn_0
+     115      7    6  0.454 top.Trojan_Trigger_Out_rn_0
+    个数:  17423,top1%=(0.987:  130),区间[-0.317- 1.000],sum=   1933.6,mean= 0.111,方差=0.0502,标准差=0.2241
+[30/135] PIC16F84-T300: 133 len_in= 133 
+      23     89  109  0.291 top.Counter_rn_0
+      27     43   55  0.942 top.eep_dat_reg_rn_0
+     115      7    6  0.533 top.Trojan_Trigger_Out_rn_0
+    个数:  17423,top1%=(0.987:  130),区间[-0.286- 1.000],sum=   2066.0,mean= 0.119,方差=0.0467,标准差=0.2160
+[31/135] PIC16F84-T400: 133 len_in= 133 
+      23     89  109  0.236 top.Counter_rn_0
+      26     33   43  0.954 top.eep_adr_reg_rn_0
+     115      7    6  0.506 top.Trojan_Trigger_Out_rn_0
+    个数:  17423,top1%=(0.987:  130),区间[-0.325- 1.000],sum=   1991.1,mean= 0.114,方差=0.0489,标准差=0.2212
+[32/135] RC6-T100:  86 len_in=  86 
+       0      9    9  0.276 top.tj_t1_cnt_rn_0
+       1      4    3  0.278 top.tj_t1_trig_rn_0
+    个数:   7224,top1%=(0.987:   84),区间[-0.288- 1.000],sum=   1016.5,mean= 0.141,方差=0.0600,标准差=0.2450
+[33/135] RC6-T200:  86 len_in=  86 
+       0      5    4  0.349 top.tj_t2_s_exkey_mod_rn_0
+       1      4    3  0.273 top.tj_t2_trig_rn_0
+    个数:   7224,top1%=(0.987:   84),区间[-0.307- 1.000],sum=    916.0,mean= 0.127,方差=0.0626,标准差=0.2502
+[34/135] RC6-T300:  86 len_in=  86 
+       0      7    6  0.280 top.tj_t3_flag_rn_0
+       1     11   11  0.290 top.tj_t3_leak_rn_0
+    个数:   7224,top1%=(0.987:   84),区间[-0.260- 1.000],sum=    934.8,mean= 0.129,方差=0.0623,标准差=0.2496
+[35/135] RC6-T600:  84 len_in=  84 
+      74     15   15  0.752 top.u_keyex.s_busy_rn_0
+    个数:   7056,top1%=(0.988:   83),区间[-0.231- 1.000],sum=   1004.3,mean= 0.142,方差=0.0619,标准差=0.2489
+[36/135] RC6-T700:  84 len_in=  84 
+      68     22   26  0.340 top.u_keyex.r_count_rn_0
+    个数:   7056,top1%=(0.987:   85),区间[-0.283- 1.000],sum=    949.6,mean= 0.135,方差=0.0633,标准差=0.2517
+[37/135] RC6-T800:  84 len_in=  84 
+      78     43   76  0.236 top.u_keyex.s_tmp_rn_0
+    个数:   7056,top1%=(0.987:   83),区间[-0.285- 1.000],sum=    995.3,mean= 0.141,方差=0.0598,标准差=0.2446
+[38/135] RS232-T100:  35 len_in=  35 
+       3      6    5  0.167 top.iRECEIVER.ena_rn_0
+       6     33   39  0.148 top.iRECEIVER.rec_data_cntrH_1_rn_0
+       7     37   42  0.174 top.iRECEIVER.rec_data_cntrH_2_rn_0
+       8     14   15  0.193 top.iRECEIVER.rec_data_cntrH_3_rn_0
+       9      5    4  0.320 top.iRECEIVER.rec_dataH_rn_0
+      12      5    4  0.362 top.iRECEIVER.rec_readyH_rn_0
+      13      6    5  0.845 top.iRECEIVER.rec_readyH_temp_rn_0
+    个数:   1015,top1%=(0.988:   28),区间[-0.241- 1.000],sum=    172.5,mean= 0.170,方差=0.0448,标准差=0.2117
+[39/135] RS232-T200:  34 len_in=  34 
+       1      3    2  0.196 top.iRECEIVER.clk_l_rn_0
+       2     28   35  0.878 top.iRECEIVER.cntr_resetH_rn_0
+       3     11   10  0.414 top.iRECEIVER.count_l_rn_0
+       4     19   25  0.831 top.iRECEIVER.countH_rn_0
+       5      4    3  0.148 top.iRECEIVER.ena_rn_0
+       6     44   49  0.487 top.iRECEIVER.next_state_rn_0
+       8     33   39  0.146 top.iRECEIVER.rec_data_cntrH_1_rn_0
+       9     34   39  0.103 top.iRECEIVER.rec_data_cntrH_2_rn_0
+      13     24   30  0.894 top.iRECEIVER.rec_readyInH_rn_0
+      15     23   29  0.804 top.iRECEIVER.rstCountH_rn_0
+      16     19   25  0.815 top.iRECEIVER.shiftH_rn_0
+    个数:    986,top1%=(0.987:   23),区间[-0.254- 1.000],sum=    162.7,mean= 0.165,方差=0.0517,标准差=0.2274
+[40/135] RS232-T2100:  32 len_in=  32 
+       1     28   35  0.872 top.iRECEIVER.cntr_resetH_rn_0
+       2     19   25  0.779 top.iRECEIVER.countH_rn_0
+       3     20   24  0.506 top.iRECEIVER.ena_rn_0
+       4     44   49  0.442 top.iRECEIVER.next_state_rn_0
+       6      5    4  0.273 top.iRECEIVER.rec_dataH_rn_0
+       9      5    4  0.410 top.iRECEIVER.rec_readyH_rn_0
+      10      6    5  0.775 top.iRECEIVER.rec_readyH_temp_rn_0
+      11     24   30  0.890 top.iRECEIVER.rec_readyInH_rn_0
+      13     23   29  0.817 top.iRECEIVER.rstCountH_rn_0
+      14     19   25  0.772 top.iRECEIVER.shiftH_rn_0
+      31      6    5  0.794 top.rec_dataH_temp_rn_0
+    个数:    928,top1%=(0.988:   21),区间[-0.157- 1.000],sum=    172.6,mean= 0.186,方差=0.0443,标准差=0.2105
+[41/135] RS232-T2200:  32 len_in=  32 
+       1     28   35  0.834 top.iRECEIVER.cntr_resetH_rn_0
+       2     19   25  0.797 top.iRECEIVER.countH_rn_0
+       3     19   25  0.562 top.iRECEIVER.ena_rn_0
+       4     44   49  0.370 top.iRECEIVER.next_state_rn_0
+       6      5    4  0.402 top.iRECEIVER.rec_dataH_rn_0
+       9      5    4  0.447 top.iRECEIVER.rec_readyH_rn_0
+      10      6    5  0.810 top.iRECEIVER.rec_readyH_temp_rn_0
+      11     24   30  0.877 top.iRECEIVER.rec_readyInH_rn_0
+      13     23   29  0.824 top.iRECEIVER.rstCountH_rn_0
+      14     19   25  0.773 top.iRECEIVER.shiftH_rn_0
+      31      6    5  0.787 top.rec_dataH_temp_rn_0
+    个数:    928,top1%=(0.988:   21),区间[-0.199- 1.000],sum=    173.3,mean= 0.187,方差=0.0466,标准差=0.2159
+[42/135] RS232-T2300:  32 len_in=  32 
+       1     28   35  0.872 top.iRECEIVER.cntr_resetH_rn_0
+       2     19   25  0.858 top.iRECEIVER.countH_rn_0
+       3     24   30  0.775 top.iRECEIVER.ena_rn_0
+       4     44   49  0.371 top.iRECEIVER.next_state_rn_0
+       6      5    4  0.271 top.iRECEIVER.rec_dataH_rn_0
+       9      5    4  0.416 top.iRECEIVER.rec_readyH_rn_0
+      10      6    5  0.829 top.iRECEIVER.rec_readyH_temp_rn_0
+      11     24   30  0.896 top.iRECEIVER.rec_readyInH_rn_0
+      13     23   29  0.803 top.iRECEIVER.rstCountH_rn_0
+      14     19   25  0.865 top.iRECEIVER.shiftH_rn_0
+      31      6    5  0.833 top.rec_dataH_temp_rn_0
+    个数:    928,top1%=(0.989:   21),区间[-0.129- 1.000],sum=    175.5,mean= 0.189,方差=0.0475,标准差=0.2179
+[43/135] RS232-T2400:  34 len_in=  34 
+       1     28   35  0.899 top.iRECEIVER.cntr_resetH_rn_0
+       2     19   25  0.760 top.iRECEIVER.countH_rn_0
+       3     22   27  0.550 top.iRECEIVER.ena_rn_0
+       4     44   49  0.475 top.iRECEIVER.next_state_rn_0
+       6     18   20  0.581 top.iRECEIVER.rec_data_cntrH_1_rn_0
+       7     20   23  0.598 top.iRECEIVER.rec_data_cntrH_2_rn_0
+       8      5    4  0.276 top.iRECEIVER.rec_dataH_rn_0
+      11      5    4  0.350 top.iRECEIVER.rec_readyH_rn_0
+      12      6    5  0.828 top.iRECEIVER.rec_readyH_temp_rn_0
+      13     24   30  0.864 top.iRECEIVER.rec_readyInH_rn_0
+      15     23   29  0.728 top.iRECEIVER.rstCountH_rn_0
+      16     19   25  0.769 top.iRECEIVER.shiftH_rn_0
+      33      6    5  0.826 top.rec_dataH_temp_rn_0
+    个数:    986,top1%=(0.988:   21),区间[-0.211- 1.000],sum=    167.6,mean= 0.170,方差=0.0491,标准差=0.2215
+[44/135] RS232-T300:  29 len_in=  29 
+       1     28   35  0.883 top.iRECEIVER.cntr_resetH_rn_0
+       2     19   25  0.688 top.iRECEIVER.countH_rn_0
+       3     44   49  0.493 top.iRECEIVER.next_state_rn_0
+       8     24   30  0.882 top.iRECEIVER.rec_readyInH_rn_0
+      10     23   29  0.792 top.iRECEIVER.rstCountH_rn_0
+      11     19   25  0.752 top.iRECEIVER.shiftH_rn_0
+      22     20   24  0.304 top.iXMIT.uart_xmitH_rn_0
+    个数:    841,top1%=(0.988:   22),区间[-0.201- 1.000],sum=    154.6,mean= 0.184,方差=0.0482,标准差=0.2196
+[45/135] RS232-T400:  30 len_in=  30 
+       0     17   17  0.291 top.cntr_rn_0
+       2     28   35  0.906 top.iRECEIVER.cntr_resetH_rn_0
+       3     19   25  0.812 top.iRECEIVER.countH_rn_0
+       4     44   49  0.387 top.iRECEIVER.next_state_rn_0
+       9     24   30  0.849 top.iRECEIVER.rec_readyInH_rn_0
+      11     23   29  0.728 top.iRECEIVER.rstCountH_rn_0
+      12     19   25  0.821 top.iRECEIVER.shiftH_rn_0
+      23     24   29  0.295 top.iXMIT.uart_xmitH_rn_0
+      29     19   19  0.519 top.rec_dataH_temp_rn_0
+    个数:    870,top1%=(0.988:   21),区间[-0.243- 1.000],sum=    156.4,mean= 0.180,方差=0.0534,标准差=0.2310
+[46/135] RS232-T500:  31 len_in=  31 
+       1     28   35  0.880 top.iRECEIVER.cntr_resetH_rn_0
+       2     19   25  0.806 top.iRECEIVER.countH_rn_0
+       3     44   49  0.431 top.iRECEIVER.next_state_rn_0
+       8     24   30  0.862 top.iRECEIVER.rec_readyInH_rn_0
+      10     23   29  0.790 top.iRECEIVER.rstCountH_rn_0
+      11     19   25  0.816 top.iRECEIVER.shiftH_rn_0
+      15     11   12  0.517 top.iXMIT.count_in_rn_0
+      17     11   10  0.375 top.iXMIT.DataSend_ena_rn_0
+      24     24   29  0.279 top.iXMIT.uart_xmitH_rn_0
+      25     11   10  0.690 top.iXMIT.xmit_doneH_rn_0
+      27     99  137  0.478 top.iXMIT.xmit_ShiftRegH_rn_0
+    个数:    899,top1%=(0.988:   20),区间[-0.190- 1.000],sum=    171.0,mean= 0.190,方差=0.0487,标准差=0.2206
+[47/135] RS232-T600:  31 len_in=  31 
+       1     28   35  0.894 top.iRECEIVER.cntr_resetH_rn_0
+       2     19   25  0.787 top.iRECEIVER.countH_rn_0
+       3     44   49  0.408 top.iRECEIVER.next_state_rn_0
+       8     24   30  0.892 top.iRECEIVER.rec_readyInH_rn_0
+      10     23   29  0.810 top.iRECEIVER.rstCountH_rn_0
+      11     19   25  0.816 top.iRECEIVER.shiftH_rn_0
+      13     23   27  0.372 top.iXMIT.bitCell_cntrH_rn_0
+      14     25   30  0.318 top.iXMIT.bitCountH_rn_0
+      15     38   50  0.175 top.iXMIT.countEnaH_rn_0
+      16     11   10  0.319 top.iXMIT.DataSend_ena_rn_0
+      17     33   44  0.495 top.iXMIT.ena_bitCountH_rn_0
+      18     28   37  0.288 top.iXMIT.load_shiftRegH_rn_0
+      19     48   58  0.257 top.iXMIT.next_state_rn_0
+      20     28   37  0.213 top.iXMIT.rst_bitCountH_rn_0
+      21     26   34  0.436 top.iXMIT.shiftEnaH_rn_0
+      23     49   58  0.339 top.iXMIT.state_DataSend_rn_0
+      24     24   29  0.405 top.iXMIT.uart_xmitH_rn_0
+      25      9    8  0.773 top.iXMIT.xmit_doneH_rn_0
+      26     32   43  0.217 top.iXMIT.xmit_doneInH_rn_0
+      27    120  175  0.266 top.iXMIT.xmit_ShiftRegH_rn_0
+      28     29   35  0.279 top.iXMIT.xmitDataSelH_rn_0
+    个数:    899,top1%=(0.988:   10),区间[-0.224- 1.000],sum=    111.5,mean= 0.124,方差=0.0317,标准差=0.1780
+[48/135] RS232-T700:  31 len_in=  31 
+       1     28   35  0.875 top.iRECEIVER.cntr_resetH_rn_0
+       2     19   25  0.764 top.iRECEIVER.countH_rn_0
+       3     44   49  0.401 top.iRECEIVER.next_state_rn_0
+       8     24   30  0.866 top.iRECEIVER.rec_readyInH_rn_0
+      10     23   29  0.760 top.iRECEIVER.rstCountH_rn_0
+      11     19   25  0.774 top.iRECEIVER.shiftH_rn_0
+      13     23   27  0.343 top.iXMIT.bitCell_cntrH_rn_0
+      14     25   30  0.430 top.iXMIT.bitCountH_rn_0
+      15     38   50  0.240 top.iXMIT.countEnaH_rn_0
+      16     11   10  0.375 top.iXMIT.DataSend_ena_rn_0
+      17     33   44  0.350 top.iXMIT.ena_bitCountH_rn_0
+      18     28   37  0.226 top.iXMIT.load_shiftRegH_rn_0
+      19     48   58  0.203 top.iXMIT.next_state_rn_0
+      20     28   37  0.217 top.iXMIT.rst_bitCountH_rn_0
+      21     26   34  0.255 top.iXMIT.shiftEnaH_rn_0
+      23     49   58  0.268 top.iXMIT.state_DataSend_rn_0
+      24     24   29  0.456 top.iXMIT.uart_xmitH_rn_0
+      25      9    8  0.759 top.iXMIT.xmit_doneH_rn_0
+      26     32   43  0.223 top.iXMIT.xmit_doneInH_rn_0
+      27    120  175  0.204 top.iXMIT.xmit_ShiftRegH_rn_0
+      28     29   35  0.452 top.iXMIT.xmitDataSelH_rn_0
+    个数:    899,top1%=(0.988:   10),区间[-0.202- 1.000],sum=    125.8,mean= 0.140,方差=0.0307,标准差=0.1752
+[49/135] RS232-T800:  33 len_in=  33 
+       1     28   35  0.899 top.iRECEIVER.cntr_resetH_rn_0
+       2     19   25  0.810 top.iRECEIVER.countH_rn_0
+       3     44   49  0.407 top.iRECEIVER.next_state_rn_0
+       5     33   39  0.150 top.iRECEIVER.rec_data_cntrH_1_rn_0
+       6     37   42  0.123 top.iRECEIVER.rec_data_cntrH_2_rn_0
+       7     14   15  0.154 top.iRECEIVER.rec_data_cntrH_3_rn_0
+      10      8    7  0.129 top.iRECEIVER.rec_readyH_rn_0
+      11      6    5  0.845 top.iRECEIVER.rec_readyH_temp_rn_0
+      12     24   30  0.861 top.iRECEIVER.rec_readyInH_rn_0
+      14     23   29  0.757 top.iRECEIVER.rstCountH_rn_0
+      15     19   25  0.809 top.iRECEIVER.shiftH_rn_0
+      17     23   27  0.339 top.iXMIT.bitCell_cntrH_rn_0
+      18     25   30  0.240 top.iXMIT.bitCountH_rn_0
+      19     38   50  0.218 top.iXMIT.countEnaH_rn_0
+      20     33   44  0.349 top.iXMIT.ena_bitCountH_rn_0
+      21     28   37  0.257 top.iXMIT.load_shiftRegH_rn_0
+      22     48   58  0.257 top.iXMIT.next_state_rn_0
+      23     28   37  0.327 top.iXMIT.rst_bitCountH_rn_0
+      24     26   34  0.257 top.iXMIT.shiftEnaH_rn_0
+      26     24   29  0.287 top.iXMIT.uart_xmitH_rn_0
+      28     32   43  0.242 top.iXMIT.xmit_doneInH_rn_0
+      29    126  184  0.325 top.iXMIT.xmit_ShiftRegH_rn_0
+      30     29   35  0.466 top.iXMIT.xmitDataSelH_rn_0
+    个数:    957,top1%=(0.987:   10),区间[-0.257- 1.000],sum=    115.9,mean= 0.121,方差=0.0337,标准差=0.1835
+[50/135] RS232-T900:  29 len_in=  29 
+       1     28   35  0.868 top.iRECEIVER.cntr_resetH_rn_0
+       2     19   25  0.778 top.iRECEIVER.countH_rn_0
+       3     44   49  0.415 top.iRECEIVER.next_state_rn_0
+       8     24   30  0.885 top.iRECEIVER.rec_readyInH_rn_0
+      10     23   29  0.797 top.iRECEIVER.rstCountH_rn_0
+      11     19   25  0.801 top.iRECEIVER.shiftH_rn_0
+      13     23   27  0.202 top.iXMIT.bitCell_cntrH_rn_0
+      14     25   30  0.283 top.iXMIT.bitCountH_rn_0
+      15     38   50  0.247 top.iXMIT.countEnaH_rn_0
+      16     33   44  0.494 top.iXMIT.ena_bitCountH_rn_0
+      17     28   37  0.275 top.iXMIT.load_shiftRegH_rn_0
+      18     48   58  0.207 top.iXMIT.next_state_rn_0
+      19     28   37  0.280 top.iXMIT.rst_bitCountH_rn_0
+      20     26   34  0.404 top.iXMIT.shiftEnaH_rn_0
+      22     24   29  0.265 top.iXMIT.uart_xmitH_rn_0
+      24     32   43  0.346 top.iXMIT.xmit_doneInH_rn_0
+      25    126  184  0.227 top.iXMIT.xmit_ShiftRegH_rn_0
+      26     29   35  0.363 top.iXMIT.xmitDataSelH_rn_0
+    个数:    841,top1%=(0.987:   11),区间[-0.265- 1.000],sum=    120.9,mean= 0.144,方差=0.0388,标准差=0.1970
+[51/135] RS232-T901:  31 len_in=  31 
+       1     28   35  0.880 top.iRECEIVER.cntr_resetH_rn_0
+       2     19   25  0.782 top.iRECEIVER.countH_rn_0
+       3     44   49  0.403 top.iRECEIVER.next_state_rn_0
+       8     24   30  0.893 top.iRECEIVER.rec_readyInH_rn_0
+      10     23   29  0.777 top.iRECEIVER.rstCountH_rn_0
+      11     19   25  0.804 top.iRECEIVER.shiftH_rn_0
+      13     23   27  0.372 top.iXMIT.bitCell_cntrH_rn_0
+      14     25   30  0.365 top.iXMIT.bitCountH_rn_0
+      15     43   58  0.217 top.iXMIT.countEnaH_rn_0
+      16     11   10  0.443 top.iXMIT.DataSend_ena_rn_0
+      17     36   49  0.321 top.iXMIT.ena_bitCountH_rn_0
+      18     31   42  0.181 top.iXMIT.load_shiftRegH_rn_0
+      19     57   69  0.205 top.iXMIT.next_state_rn_0
+      20     31   42  0.194 top.iXMIT.rst_bitCountH_rn_0
+      21     29   39  0.419 top.iXMIT.shiftEnaH_rn_0
+      23     50   60  0.244 top.iXMIT.state_DataSend_rn_0
+      24     24   29  0.270 top.iXMIT.uart_xmitH_rn_0
+      26     35   48  0.183 top.iXMIT.xmit_doneInH_rn_0
+      27    126  184  0.270 top.iXMIT.xmit_ShiftRegH_rn_0
+      28     37   46  0.230 top.iXMIT.xmitDataSelH_rn_0
+    个数:    899,top1%=(0.988:   11),区间[-0.193- 1.000],sum=    128.7,mean= 0.143,方差=0.0321,标准差=0.1790
+[52/135] adder-T100: 129 len_in= 129 
+     127      5    4  0.210 top.tj_t2_tempSum1_mod_rn_0
+     128      7    6  0.770 top.tj_t2_trig_rn_0
+    个数:  16383,top1%=(0.987:  127),区间[-0.276- 1.000],sum=   2550.5,mean= 0.156,方差=0.0698,标准差=0.2641
+[53/135] adder-T600: 127 len_in= 127 
+      95    121  140  0.222 top.tempSum1_rn_0
+    个数:  16129,top1%=(0.987:  126),区间[-0.268- 1.000],sum=   2373.3,mean= 0.147,方差=0.0745,标准差=0.2729
+[54/135] adder-T601: 127 len_in= 127 
+      63     24   25  0.246 top.tempCarry1_rn_0
+    个数:  16129,top1%=(0.987:  126),区间[-0.324- 1.000],sum=   2726.9,mean= 0.169,方差=0.0682,标准差=0.2611
+[55/135] adder-T800: 127 len_in= 127 
+     117    121  140  0.238 top.tempSum3_rn_0
+    个数:  16129,top1%=(0.986:  126),区间[-0.364- 1.000],sum=   2257.3,mean= 0.140,方差=0.0848,标准差=0.2912
+[56/135] ata-T100: 100 len_in= 100 
+       1      9    9  0.249 top.tj_t1_cnt_rn_0
+       2      4    3  0.394 top.tj_t1_trig_rn_0
+    个数:   9800,top1%=(0.987:   98),区间[-0.269- 1.000],sum=    937.9,mean= 0.096,方差=0.0409,标准差=0.2023
+[57/135] ata-T200: 100 len_in= 100 
+       1      6    5  0.337 top.tj_t2_trig_rn_0
+       2      5    4  0.301 top.tj_t2_wb_ack_o_mod_rn_0
+    个数:   9800,top1%=(0.987:   98),区间[-0.284- 1.000],sum=    959.5,mean= 0.098,方差=0.0418,标准差=0.2045
+[58/135] ata-T300: 100 len_in= 100 
+       1     11   10  0.291 top.tj_t3_flag_rn_0
+       2     15   15  0.283 top.tj_t3_leak_rn_0
+    个数:   9800,top1%=(0.987:   98),区间[-0.274- 1.000],sum=    951.0,mean= 0.097,方差=0.0391,标准差=0.1978
+[59/135] ata-T600:  99 len_in=  99 
+      72     31   42  0.391 top.u1.PIO_timing_controller.done_rn_0
+    个数:   9702,top1%=(0.987:   98),区间[-0.344- 1.000],sum=    918.8,mean= 0.095,方差=0.0444,标准差=0.2107
+[60/135] ata-T800:  99 len_in=  99 
+      56     16   18  0.278 top.u1.cIORDY_rn_0
+    个数:   9702,top1%=(0.987:   98),区间[-0.273- 1.000],sum=   1094.3,mean= 0.113,方差=0.0400,标准差=0.2000
+[61/135] datetime-T100:  89 len_in=  89 
+      77      9    9  0.446 top.tj_t1_cnt_rn_0
+      78      4    3  0.322 top.tj_t1_trig_rn_0
+    个数:   7743,top1%=(0.987:   87),区间[-0.263- 1.000],sum=   1491.3,mean= 0.193,方差=0.0610,标准差=0.2469
+[62/135] datetime-T200:  89 len_in=  89 
+      77      5    4  0.392 top.tj_t2_ack_o_mod_rn_0
+      78      6    5  0.259 top.tj_t2_trig_rn_0
+    个数:   7743,top1%=(0.988:   87),区间[-0.215- 1.000],sum=   1471.9,mean= 0.190,方差=0.0614,标准差=0.2477
+[63/135] datetime-T300:  89 len_in=  89 
+      77     10    9  0.448 top.tj_t3_flag_rn_0
+      78     14   14  0.473 top.tj_t3_leak_rn_0
+    个数:   7743,top1%=(0.987:   87),区间[-0.283- 1.000],sum=   1525.8,mean= 0.197,方差=0.0561,标准差=0.2368
+[64/135] datetime-T600:  87 len_in=  87 
+       0     46   53  0.295 top.ack_o_rn_0
+    个数:   7569,top1%=(0.987:   86),区间[-0.287- 1.000],sum=   1297.9,mean= 0.171,方差=0.0629,标准差=0.2508
+[65/135] datetime-T700:  87 len_in=  87 
+      70     14   13  0.545 top.oalarm_rn_0
+    个数:   7569,top1%=(0.987:   86),区间[-0.316- 1.000],sum=   1395.9,mean= 0.184,方差=0.0624,标准差=0.2497
+[66/135] datetime-T800:  87 len_in=  87 
+      46     25   27  0.556 top.incMonthL_rn_0
+    个数:   7569,top1%=(0.987:   86),区间[-0.270- 1.000],sum=   1227.2,mean= 0.162,方差=0.0583,标准差=0.2415
+[67/135] dmx512-T100:  29 len_in=  29 
+      24      9    9  0.326 top.tj_t1_cnt_rn_0
+      25      4    3  0.382 top.tj_t1_trig_rn_0
+    个数:    783,top1%=(0.988:   27),区间[-0.217- 1.000],sum=     84.6,mean= 0.108,方差=0.0498,标准差=0.2232
+[68/135] dmx512-T200:  29 len_in=  29 
+      24     11   10  0.626 top.tj_t2_trig_rn_0
+      25      5    4  0.262 top.tj_t2_tx_mod_rn_0
+    个数:    783,top1%=(0.987:   27),区间[-0.286- 1.000],sum=     78.1,mean= 0.100,方差=0.0486,标准差=0.2204
+[69/135] dmx512-T300:  29 len_in=  29 
+      24      8    7  0.520 top.tj_t3_flag_rn_0
+      25     12   12  0.429 top.tj_t3_leak_rn_0
+    个数:    783,top1%=(0.988:   27),区间[-0.212- 1.000],sum=     71.8,mean= 0.092,方差=0.0528,标准差=0.2298
+[70/135] dmx512-T700:  27 len_in=  27 
+      17     16   15  0.407 top.csr_do_reg_rn_0
+    个数:    729,top1%=(0.988:   26),区间[-0.239- 1.000],sum=     65.1,mean= 0.089,方差=0.0556,标准差=0.2359
+[71/135] dmx512-T800:  27 len_in=  27 
+      24     40   54  0.425 top.tx_rn_0
+    个数:    729,top1%=(0.988:   26),区间[-0.218- 1.000],sum=     78.7,mean= 0.108,方差=0.0499,标准差=0.2234
+[72/135] ima_adpcm_enc_dec-T100:  16 len_in=  16 
+      14      9    9  0.252 top.tj_t1_cnt_rn_0
+      15      4    3  0.145 top.tj_t1_trig_rn_0
+    个数:    224,top1%=(0.989:   14),区间[-0.140- 1.000],sum=     39.2,mean= 0.175,方差=0.0669,标准差=0.2587
+[73/135] ima_adpcm_enc_dec-T200:  16 len_in=  16 
+      14      5    4  0.353 top.tj_t2_outPCM_mod_rn_0
+      15      6    5  0.203 top.tj_t2_trig_rn_0
+    个数:    224,top1%=(0.989:   14),区间[-0.141- 1.000],sum=     38.5,mean= 0.172,方差=0.0627,标准差=0.2504
+[74/135] ima_adpcm_enc_dec-T300:  16 len_in=  16 
+      14      9    8  0.395 top.tj_t3_flag_rn_0
+      15     13   13  0.234 top.tj_t3_leak_rn_0
+    个数:    224,top1%=(0.989:   14),区间[-0.134- 1.000],sum=     38.2,mean= 0.171,方差=0.0609,标准差=0.2468
+[75/135] interrupt_controller-T100:  42 len_in=  42 
+      38      9    9  0.359 top.tj_t1_cnt_rn_0
+      39      4    3  0.210 top.tj_t1_trig_rn_0
+    个数:   1680,top1%=(0.988:   40),区间[-0.228- 1.000],sum=    229.1,mean= 0.136,方差=0.0661,标准差=0.2571
+[76/135] interrupt_controller-T200:  42 len_in=  42 
+      38      5    4  0.422 top.tj_t2_data_r_mod_rn_0
+      39      8    7  0.480 top.tj_t2_trig_rn_0
+    个数:   1680,top1%=(0.988:   40),区间[-0.248- 1.000],sum=    263.8,mean= 0.157,方差=0.0595,标准差=0.2440
+[77/135] interrupt_controller-T300:  42 len_in=  42 
+      38     11   10  0.535 top.tj_t3_flag_rn_0
+      39     15   15  0.282 top.tj_t3_leak_rn_0
+    个数:   1680,top1%=(0.987:   40),区间[-0.277- 1.000],sum=    198.8,mean= 0.118,方差=0.0640,标准差=0.2530
+[78/135] interrupt_controller-T600:  41 len_in=  41 
+       2     47   67  0.294 top.data_o_rn_0
+    个数:   1640,top1%=(0.988:   40),区间[-0.223- 1.000],sum=    247.3,mean= 0.151,方差=0.0572,标准差=0.2392
+[79/135] interrupt_controller-T700:  40 len_in=  40 
+       4     16   16  0.513 top.dtack_rn_0
+    个数:   1600,top1%=(0.988:   39),区间[-0.212- 1.000],sum=    235.7,mean= 0.147,方差=0.0585,标准差=0.2418
+[80/135] interrupt_controller-T800:  40 len_in=  40 
+       2     54   91  0.413 top.data_r_rn_0
+    个数:   1600,top1%=(0.988:   39),区间[-0.241- 1.000],sum=    257.0,mean= 0.161,方差=0.0583,标准差=0.2415
+[81/135] mmuart-T100:  23 len_in=  23 
+       4      9    9  0.271 top.tj_t1_cnt_rn_0
+       5      4    3  0.285 top.tj_t1_trig_rn_0
+    个数:    483,top1%=(0.986:   21),区间[-0.382- 1.000],sum=     86.4,mean= 0.179,方差=0.0618,标准差=0.2487
+[82/135] mmuart-T200:  23 len_in=  23 
+       4      5    4  0.256 top.tj_t2_divisor_mod_rn_0
+       5     11   10  0.843 top.tj_t2_trig_rn_0
+    个数:    483,top1%=(0.988:   21),区间[-0.191- 1.000],sum=     92.3,mean= 0.191,方差=0.0614,标准差=0.2479
+[83/135] mmuart-T600:  21 len_in=  21 
+      20     13   14  0.599 top.uart_tx_rn_0
+    个数:    441,top1%=(0.988:   20),区间[-0.241- 1.000],sum=     95.2,mean= 0.216,方差=0.0683,标准差=0.2613
+[84/135] mmuart-T700:  21 len_in=  21 
+       2     31   34  0.227 top.divisor_rn_0
+    个数:    441,top1%=(0.987:   20),区间[-0.315- 1.000],sum=     75.7,mean= 0.172,方差=0.0658,标准差=0.2566
+[85/135] mmuart-T800:  21 len_in=  21 
+      19     26   30  0.393 top.tx_wr_rn_0
+    个数:    441,top1%=(0.987:   20),区间[-0.255- 1.000],sum=     84.2,mean= 0.191,方差=0.0604,标准差=0.2457
+[86/135] p16c5x-T100: 119 len_in= 119 
+      90      9    9  0.447 top.tj_t1_cnt_rn_0
+      91      4    3  0.333 top.tj_t1_trig_rn_0
+    个数:  13923,top1%=(0.987:  117),区间[-0.348- 1.000],sum=    872.1,mean= 0.063,方差=0.0279,标准差=0.1670
+[87/135] p16c5x-T200: 119 len_in= 119 
+      90      5    4  0.393 top.tj_t2_CE_mod_rn_0
+      91      4    3  0.276 top.tj_t2_trig_rn_0
+    个数:  13923,top1%=(0.986:  117),区间[-0.371- 1.000],sum=    956.5,mean= 0.069,方差=0.0263,标准差=0.1620
+[88/135] p16c5x-T300: 119 len_in= 119 
+      90      7    6  0.346 top.tj_t3_flag_rn_0
+      91     11   11  0.352 top.tj_t3_leak_rn_0
+    个数:  13923,top1%=(0.986:  117),区间[-0.396- 1.000],sum=    929.8,mean= 0.067,方差=0.0263,标准差=0.1622
+[89/135] p16c5x-T600: 117 len_in= 117 
+      37     29   32  0.362 top.CE_rn_0
+    个数:  13689,top1%=(0.987:  116),区间[-0.265- 1.000],sum=   1156.8,mean= 0.085,方差=0.0293,标准差=0.1711
+[90/135] p16c5x-T700: 117 len_in= 117 
+      61     17   17  0.467 top.IR_rn_0
+    个数:  13689,top1%=(0.987:  116),区间[-0.344- 1.000],sum=    922.0,mean= 0.067,方差=0.0283,标准差=0.1682
+[91/135] p16c5x-T800: 117 len_in= 117 
+      45     31   34  0.274 top.GOTO_rn_0
+    个数:  13689,top1%=(0.987:  116),区间[-0.312- 1.000],sum=    975.7,mean= 0.071,方差=0.0265,标准差=0.1629
+[92/135] sasc-T100:  44 len_in=  44 
+      30      9    9  0.244 top.tj_t1_cnt_rn_0
+      31      4    3  0.264 top.tj_t1_trig_rn_0
+    个数:   1848,top1%=(0.987:   42),区间[-0.297- 1.000],sum=    158.9,mean= 0.086,方差=0.0434,标准差=0.2083
+[93/135] sasc-T200:  44 len_in=  44 
+      30      6    5  0.366 top.tj_t2_trig_rn_0
+      31      5    4  0.251 top.tj_t2_txd_o_mod_rn_0
+    个数:   1848,top1%=(0.987:   42),区间[-0.278- 1.000],sum=    182.1,mean= 0.099,方差=0.0426,标准差=0.2064
+[94/135] sasc-T300:  43 len_in=  43 
+      30     12   11  0.500 top.tj_t4_active_rn_0
+    个数:   1806,top1%=(0.987:   42),区间[-0.290- 1.000],sum=    172.7,mean= 0.096,方差=0.0469,标准差=0.2166
+[95/135] sasc-T600:  42 len_in=  42 
+      13     19   25  0.475 top.rx_fifo.rp_p1_rn_0
+      36     19   25  0.216 top.tx_fifo.rp_p1_rn_0
+    个数:   1764,top1%=(0.988:   40),区间[-0.246- 1.000],sum=    152.7,mean= 0.087,方差=0.0436,标准差=0.2089
+[96/135] sasc-T700:  42 len_in=  42 
+      14     17   16  0.602 top.rx_fifo.wp_rn_0
+      37     17   16  0.655 top.tx_fifo.wp_rn_0
+    个数:   1764,top1%=(0.988:   40),区间[-0.212- 1.000],sum=    154.4,mean= 0.088,方差=0.0412,标准差=0.2031
+[97/135] sasc-T800:  42 len_in=  42 
+       8     37   67  0.224 top.rx_fifo.dout_rn_0
+      31     37   67  0.280 top.tx_fifo.dout_rn_0
+    个数:   1764,top1%=(0.987:   40),区间[-0.254- 1.000],sum=    151.6,mean= 0.086,方差=0.0447,标准差=0.2114
+[98/135] simple_spi-T100:  57 len_in=  57 
+      37      9    9  0.296 top.tj_t1_cnt_rn_0
+      38      4    3  0.455 top.tj_t1_trig_rn_0
+    个数:   3135,top1%=(0.987:   55),区间[-0.276- 1.000],sum=    231.2,mean= 0.074,方差=0.0373,标准差=0.1930
+[99/135] simple_spi-T200:  57 len_in=  57 
+      37      5    4  0.251 top.tj_t2_treg_mod_rn_0
+      38      7    6  0.425 top.tj_t2_trig_rn_0
+    个数:   3135,top1%=(0.987:   55),区间[-0.264- 1.000],sum=    227.1,mean= 0.072,方差=0.0371,标准差=0.1925
+[100/135] simple_spi-T300:  57 len_in=  57 
+      37      9    8  0.369 top.tj_t3_flag_rn_0
+      38     13   13  0.374 top.tj_t3_leak_rn_0
+    个数:   3135,top1%=(0.987:   55),区间[-0.300- 1.000],sum=    188.2,mean= 0.060,方差=0.0384,标准差=0.1959
+[101/135] simple_spi-T600:  55 len_in=  55 
+      53     19   19  0.487 top.wfwe_rn_0
+    个数:   3025,top1%=(0.987:   54),区间[-0.283- 1.000],sum=    182.0,mean= 0.060,方差=0.0383,标准差=0.1956
+[102/135] simple_spi-T700:  55 len_in=  55 
+       0     19   19  0.407 top.ack_o_rn_0
+    个数:   3025,top1%=(0.987:   54),区间[-0.267- 1.000],sum=    214.0,mean= 0.071,方差=0.0365,标准差=0.1911
+[103/135] simple_spi-T800:  55 len_in=  55 
+       5     99  133  0.245 top.dat_o_rn_0
+    个数:   3025,top1%=(0.987:   54),区间[-0.287- 1.000],sum=    199.0,mean= 0.066,方差=0.0377,标准差=0.1943
+[104/135] sub86-T100:  63 len_in=  63 
+      58      9    9  0.302 top.tj_t1_cnt_rn_0
+      59      5    4  0.385 top.tj_t1_trig_rn_0
+    个数:   3843,top1%=(0.987:   61),区间[-0.297- 1.000],sum=    480.0,mean= 0.125,方差=0.0397,标准差=0.1992
+[105/135] sub86-T200:  63 len_in=  63 
+      58      5    4  0.346 top.tj_t2_RD_mod_rn_0
+      59     11   10  0.346 top.tj_t2_trig_rn_0
+    个数:   3843,top1%=(0.987:   61),区间[-0.251- 1.000],sum=    518.3,mean= 0.135,方差=0.0371,标准差=0.1926
+[106/135] sub86-T300:  63 len_in=  63 
+      58      9    8  0.465 top.tj_t3_flag_rn_0
+      59     13   13  0.442 top.tj_t3_leak_rn_0
+    个数:   3843,top1%=(0.988:   61),区间[-0.247- 1.000],sum=    540.3,mean= 0.141,方差=0.0367,标准差=0.1916
+[107/135] sub86-T700:  61 len_in=  61 
+      33    157  195  0.248 top.PC_rn_0
+    个数:   3721,top1%=(0.987:   60),区间[-0.280- 1.000],sum=    509.8,mean= 0.137,方差=0.0378,标准差=0.1944
+[108/135] systemcdes-T100:  56 len_in=  56 
+      52      9    9  0.255 top.tj_t1_cnt_rn_0
+      53      4    3  0.166 top.tj_t1_trig_rn_0
+    个数:   3024,top1%=(0.987:   58),区间[-0.287- 1.000],sum=    314.4,mean= 0.104,方差=0.0617,标准差=0.2484
+[109/135] systemcdes-T200:  56 len_in=  56 
+      52      8    7  0.179 top.tj_t2_trig_rn_0
+      53      5    4  0.343 top.tj_t2_wb_ack_o_mod_rn_0
+    个数:   3024,top1%=(0.987:   58),区间[-0.257- 1.000],sum=    319.9,mean= 0.106,方差=0.0562,标准差=0.2370
+[110/135] systemcdes-T300:  56 len_in=  56 
+      52     10    9  0.296 top.tj_t3_flag_rn_0
+      53     14   14  0.360 top.tj_t3_leak_rn_0
+    个数:   3024,top1%=(0.988:   58),区间[-0.223- 1.000],sum=    297.3,mean= 0.098,方差=0.0549,标准差=0.2342
+[111/135] systemcdes-T700:  54 len_in=  54 
+       3     18   20  0.499 top.des.data_o_rn_0
+    个数:   2916,top1%=(0.987:   57),区间[-0.324- 1.000],sum=    264.8,mean= 0.091,方差=0.0632,标准差=0.2514
+[112/135] systemcdes-T800:  54 len_in=  54 
+      12     22   25  0.797 top.des.next_data_ready_rn_0
+    个数:   2916,top1%=(0.986:   57),区间[-0.358- 1.000],sum=    267.5,mean= 0.092,方差=0.0652,标准差=0.2554
+[113/135] tiny_spi-T100:  29 len_in=  29 
+      21      9    9  0.331 top.tj_t1_cnt_rn_0
+      22      7    6  0.339 top.tj_t1_trig_rn_0
+    个数:    783,top1%=(0.988:   27),区间[-0.204- 1.000],sum=    112.5,mean= 0.144,方差=0.0494,标准差=0.2222
+[114/135] tiny_spi-T200:  29 len_in=  29 
+      21      5    4  0.361 top.tj_t2_sr8_mod_rn_0
+      22      6    5  0.547 top.tj_t2_trig_rn_0
+    个数:    783,top1%=(0.988:   27),区间[-0.204- 1.000],sum=    101.7,mean= 0.130,方差=0.0500,标准差=0.2235
+[115/135] tiny_spi-T300:  29 len_in=  29 
+      21     13   12  0.378 top.tj_t3_flag_rn_0
+      22     17   17  0.276 top.tj_t3_leak_rn_0
+    个数:    783,top1%=(0.988:   27),区间[-0.242- 1.000],sum=     79.5,mean= 0.101,方差=0.0506,标准差=0.2250
+[116/135] tiny_spi-T600:  27 len_in=  27 
+       0     19   25  0.437 top.ack_o_rn_0
+    个数:    729,top1%=(0.987:   26),区间[-0.263- 1.000],sum=     86.6,mean= 0.119,方差=0.0549,标准差=0.2342
+[117/135] tiny_spi-T700:  28 len_in=  28 
+       3      9    8  0.268 top.bc_rn_0
+    个数:    756,top1%=(0.988:   27),区间[-0.203- 1.000],sum=    101.7,mean= 0.135,方差=0.0528,标准差=0.2298
+[118/135] tiny_spi-T800:  27 len_in=  27 
+      20     41   71  0.271 top.sr8_sf_rn_0
+    个数:    729,top1%=(0.987:   26),区间[-0.276- 1.000],sum=     65.1,mean= 0.089,方差=0.0577,标准差=0.2401
+[119/135] uart2bus-T100:  49 len_in=  49 
+       0      9    9  0.331 top.tj_t1_cnt_rn_0
+       1      4    3  0.251 top.tj_t1_trig_rn_0
+    个数:   2303,top1%=(0.988:   47),区间[-0.248- 1.000],sum=    289.4,mean= 0.126,方差=0.0370,标准差=0.1924
+[120/135] uart2bus-T200:  49 len_in=  49 
+       0      5    4  0.257 top.tj_t2_int_req_mod_rn_0
+       1      4    3  0.199 top.tj_t2_trig_rn_0
+    个数:   2303,top1%=(0.987:   47),区间[-0.312- 1.000],sum=    304.6,mean= 0.132,方差=0.0414,标准差=0.2034
+[121/135] uart2bus-T300:  49 len_in=  49 
+       0      7    6  0.355 top.tj_t3_flag_rn_0
+       1     11   11  0.478 top.tj_t3_leak_rn_0
+    个数:   2303,top1%=(0.988:   47),区间[-0.246- 1.000],sum=    330.8,mean= 0.144,方差=0.0351,标准差=0.1874
+[122/135] uart2bus-T600:  48 len_in=  48 
+       0    141  163  0.259 top.baud_freq_rn_0
+    个数:   2256,top1%=(0.988:   47),区间[-0.208- 1.000],sum=    292.9,mean= 0.130,方差=0.0369,标准差=0.1920
+[123/135] uart2bus-T700:  47 len_in=  47 
+       1     18   21  0.445 top.uart1.baud_gen_1.counter_rn_0
+    个数:   2209,top1%=(0.988:   46),区间[-0.249- 1.000],sum=    302.4,mean= 0.137,方差=0.0371,标准差=0.1926
+[124/135] uart2bus-T800:  47 len_in=  47 
+       1    193  229  0.212 top.uart1.baud_gen_1.counter_rn_0
+    个数:   2209,top1%=(0.987:   46),区间[-0.334- 1.000],sum=    275.5,mean= 0.125,方差=0.0394,标准差=0.1986
+[125/135] usb_phy-T100:  66 len_in=  66 
+      63      9    9  0.401 top.tj_t1_cnt_rn_0
+      64      4    3  0.285 top.tj_t1_trig_rn_0
+    个数:   4224,top1%=(0.987:   64),区间[-0.303- 1.000],sum=    490.8,mean= 0.116,方差=0.0395,标准差=0.1988
+[126/135] usb_phy-T200:  66 len_in=  66 
+      63      4    3  0.290 top.tj_t2_trig_rn_0
+      64      5    4  0.321 top.tj_t2_txoe_mod_rn_0
+    个数:   4224,top1%=(0.987:   64),区间[-0.298- 1.000],sum=    475.6,mean= 0.113,方差=0.0378,标准差=0.1944
+[127/135] usb_phy-T300:  66 len_in=  66 
+      63      9    8  0.242 top.tj_t3_flag_rn_0
+      64     13   13  0.324 top.tj_t3_leak_rn_0
+    个数:   4224,top1%=(0.988:   64),区间[-0.226- 1.000],sum=    581.6,mean= 0.138,方差=0.0363,标准差=0.1906
+[128/135] usb_phy-T700:  64 len_in=  64 
+      63     11   10  0.264 top.usb_rst_rn_0
+    个数:   4096,top1%=(0.987:   63),区间[-0.269- 1.000],sum=    473.3,mean= 0.116,方差=0.0404,标准差=0.2009
+[129/135] usb_phy-T800:  64 len_in=  64 
+      62     71   91  0.439 top.rst_cnt_rn_0
+    个数:   4096,top1%=(0.987:   63),区间[-0.261- 1.000],sum=    485.6,mean= 0.119,方差=0.0437,标准差=0.2091
+[130/135] wb_lpc-T100:  18 len_in=  18 
+      10      9    9  0.206 top.tj_t1_cnt_rn_0
+      11      4    3  0.554 top.tj_t1_trig_rn_0
+    个数:    288,top1%=(0.988:   16),区间[-0.202- 1.000],sum=     46.6,mean= 0.162,方差=0.0657,标准差=0.2563
+[131/135] wb_lpc-T200:  18 len_in=  18 
+      10      8    7  0.505 top.tj_t2_trig_rn_0
+      11      5    4  0.221 top.tj_t2_wb_err_o_mod_rn_0
+    个数:    288,top1%=(0.988:   16),区间[-0.158- 1.000],sum=     50.4,mean= 0.175,方差=0.0662,标准差=0.2574
+[132/135] wb_lpc-T300:  18 len_in=  18 
+      10     11   10  0.298 top.tj_t3_flag_rn_0
+      11     15   15  0.269 top.tj_t3_leak_rn_0
+    个数:    288,top1%=(0.989:   16),区间[-0.145- 1.000],sum=     50.3,mean= 0.175,方差=0.0649,标准差=0.2547
+[133/135] xtea-T100:  99 len_in=  99 
+       0      9    9  0.370 top.tj_t1_cnt_rn_0
+       1      4    3  0.247 top.tj_t1_trig_rn_0
+    个数:   9603,top1%=(0.987:   97),区间[-0.329- 1.000],sum=   1325.3,mean= 0.138,方差=0.0605,标准差=0.2459
+[134/135] xtea-T200:  99 len_in=  99 
+       0      5    4  0.352 top.tj_t2_s_exkey_a_mod_rn_0
+       1      4    3  0.245 top.tj_t2_trig_rn_0
+    个数:   9603,top1%=(0.987:   97),区间[-0.284- 1.000],sum=   1277.7,mean= 0.133,方差=0.0582,标准差=0.2412
+[135/135] xtea-T300:  99 len_in=  99 
+       0      7    6  0.287 top.tj_t3_flag_rn_0
+       1     11   11  0.391 top.tj_t3_leak_rn_0
+    个数:   9603,top1%=(0.987:   97),区间[-0.253- 1.000],sum=   1280.3,mean= 0.133,方差=0.0601,标准差=0.2453
+[GraphWalk] 整体统计：正常子图总数(含in中的高相似度子图)=38984，疑似木马子图总数=585：
+
+=== 检测到的改动信号（简洁格式）===
+序列    节点数     边数      电路名                 信号名
+--------------------------------------------------------------------------------
+0     17      19      AES-T100            top.Trojan.lfsr.d0
+1     12      11      AES-T100            top.Trojan.lfsr.lfsr_stream
+2     452     577     AES-T100            top.Trojan.load
+3     12      11      AES-T1000           top.Trigger.Tj_Trig
+4     17      19      AES-T1000           top.Trojan.lfsr.d0
+5     19      19      AES-T1000           top.Trojan.lfsr.lfsr_stream
+6     452     577     AES-T1000           top.Trojan.load
+7     12      11      AES-T1100           top.Trigger.State0
+8     19      20      AES-T1100           top.Trigger.State1
+9     26      29      AES-T1100           top.Trigger.State2
+10    33      38      AES-T1100           top.Trigger.State3
+11    8       7       AES-T1100           top.Trigger.Tj_Trig
+12    17      19      AES-T1100           top.Trojan.lfsr.d0
+13    17      17      AES-T1100           top.Trojan.lfsr.lfsr_stream
+14    452     577     AES-T1100           top.Trojan.load
+15    9       8       AES-T1200           top.Trigger.Counter
+16    12      11      AES-T1200           top.Trigger.Tj_Trig
+17    17      19      AES-T1200           top.Trojan.lfsr.d0
+18    17      17      AES-T1200           top.Trojan.lfsr.lfsr_stream
+19    452     577     AES-T1200           top.Trojan.load
+20    12      11      AES-T1300           top.Trigger.Tj_Trig
+21    68      81      AES-T1300           top.Trojan.enable1
+22    68      81      AES-T1300           top.Trojan.enable2
+23    68      81      AES-T1300           top.Trojan.enable3
+24    68      81      AES-T1300           top.Trojan.enable4
+25    68      81      AES-T1300           top.Trojan.enable5
+26    68      81      AES-T1300           top.Trojan.enable6
+27    68      81      AES-T1300           top.Trojan.enable7
+28    68      81      AES-T1300           top.Trojan.enable8
+29    18      19      AES-T1300           top.Trojan.SHReg1
+30    18      19      AES-T1300           top.Trojan.SHReg2
+31    18      19      AES-T1300           top.Trojan.SHReg3
+32    18      19      AES-T1300           top.Trojan.SHReg4
+33    18      19      AES-T1300           top.Trojan.SHReg5
+34    18      19      AES-T1300           top.Trojan.SHReg6
+35    18      19      AES-T1300           top.Trojan.SHReg7
+36    18      19      AES-T1300           top.Trojan.SHReg8
+37    12      11      AES-T1400           top.Trigger.State0
+38    19      20      AES-T1400           top.Trigger.State1
+39    26      29      AES-T1400           top.Trigger.State2
+40    33      38      AES-T1400           top.Trigger.State3
+41    8       7       AES-T1400           top.Trigger.Tj_Trig
+42    68      81      AES-T1400           top.Trojan.enable1
+43    68      81      AES-T1400           top.Trojan.enable2
+44    68      81      AES-T1400           top.Trojan.enable3
+45    68      81      AES-T1400           top.Trojan.enable4
+46    68      81      AES-T1400           top.Trojan.enable5
+47    68      81      AES-T1400           top.Trojan.enable6
+48    68      81      AES-T1400           top.Trojan.enable7
+49    68      81      AES-T1400           top.Trojan.enable8
+50    18      19      AES-T1400           top.Trojan.SHReg1
+51    18      19      AES-T1400           top.Trojan.SHReg2
+52    18      19      AES-T1400           top.Trojan.SHReg3
+53    18      19      AES-T1400           top.Trojan.SHReg4
+54    18      19      AES-T1400           top.Trojan.SHReg5
+55    18      19      AES-T1400           top.Trojan.SHReg6
+56    18      19      AES-T1400           top.Trojan.SHReg7
+57    18      19      AES-T1400           top.Trojan.SHReg8
+58    9       8       AES-T1500           top.Trigger.Counter
+59    12      11      AES-T1500           top.Trigger.Tj_Trig
+60    68      81      AES-T1500           top.Trojan.enable1
+61    68      81      AES-T1500           top.Trojan.enable2
+62    68      81      AES-T1500           top.Trojan.enable3
+63    68      81      AES-T1500           top.Trojan.enable4
+64    68      81      AES-T1500           top.Trojan.enable5
+65    68      81      AES-T1500           top.Trojan.enable6
+66    68      81      AES-T1500           top.Trojan.enable7
+67    68      81      AES-T1500           top.Trojan.enable8
+68    18      19      AES-T1500           top.Trojan.SHReg1
+69    18      19      AES-T1500           top.Trojan.SHReg2
+70    18      19      AES-T1500           top.Trojan.SHReg3
+71    18      19      AES-T1500           top.Trojan.SHReg4
+72    18      19      AES-T1500           top.Trojan.SHReg5
+73    18      19      AES-T1500           top.Trojan.SHReg6
+74    18      19      AES-T1500           top.Trojan.SHReg7
+75    18      19      AES-T1500           top.Trojan.SHReg8
+76    8       7       AES-T1600           top.Tj_Trigger.Detected
+77    12      11      AES-T1600           top.Tj_Trigger.State0
+78    19      20      AES-T1600           top.Tj_Trigger.State1
+79    26      29      AES-T1600           top.Tj_Trigger.State2
+80    33      38      AES-T1600           top.Tj_Trigger.State3
+81    15      15      AES-T1600           top.Tj_Trigger.tempClk1
+82    23      24      AES-T1600           top.Tj_Trigger.tempClk2
+83    4       3       AES-T1600           top.Tj_Trigger.Tj_Trig
+84    6       5       AES-T1600           top.TSC.Antena
+85    13      12      AES-T1600           top.TSC.Baud8GeneratorACC
+86    14      15      AES-T1600           top.TSC.beep1
+87    20      21      AES-T1600           top.TSC.beep2
+88    4       3       AES-T1600           top.TSC.beeps
+89    11      11      AES-T1600           top.TSC.MUX_Sel
+90    9       8       AES-T1600           top.TSC.SHIFTReg
+91    9       8       AES-T1700           top.Tj_Trigger.Counter
+92    12      11      AES-T1700           top.Tj_Trigger.Tj_Trig
+93    6       5       AES-T1700           top.TSC.Antena
+94    13      12      AES-T1700           top.TSC.Baud8GeneratorACC
+95    14      15      AES-T1700           top.TSC.beep1
+96    20      21      AES-T1700           top.TSC.beep2
+97    4       3       AES-T1700           top.TSC.beeps
+98    11      11      AES-T1700           top.TSC.MUX_Sel
+99    9       8       AES-T1700           top.TSC.SHIFTReg
+100   18      19      AES-T1800           top.Trojan.DynamicPower
+101   12      11      AES-T1800           top.Trojan.Tj_Trig
+102   9       8       AES-T1900           top.Trojan.Counter
+103   18      19      AES-T1900           top.Trojan.DynamicPower
+104   12      11      AES-T1900           top.Trojan.Tj_Trig
+105   17      19      AES-T200            top.Trojan.lfsr.d0
+106   15      14      AES-T200            top.Trojan.lfsr.lfsr_stream
+107   452     577     AES-T200            top.Trojan.load
+108   12      11      AES-T2000           top.Trigger.State0
+109   19      20      AES-T2000           top.Trigger.State1
+110   26      29      AES-T2000           top.Trigger.State2
+111   33      38      AES-T2000           top.Trigger.State3
+112   8       7       AES-T2000           top.Trigger.Tj_Trig
+113   9       8       AES-T2000           top.Trojan.COUNTER
+114   3       2       AES-T2000           top.Trojan.INV10_out
+115   3       2       AES-T2000           top.Trojan.INV11_out
+116   3       2       AES-T2000           top.Trojan.INV1_out
+117   3       2       AES-T2000           top.Trojan.INV2_out
+118   3       2       AES-T2000           top.Trojan.INV3_out
+119   3       2       AES-T2000           top.Trojan.INV4_out
+120   3       2       AES-T2000           top.Trojan.INV5_out
+121   3       2       AES-T2000           top.Trojan.INV6_out
+122   3       2       AES-T2000           top.Trojan.INV7_out
+123   3       2       AES-T2000           top.Trojan.INV8_out
+124   3       2       AES-T2000           top.Trojan.INV9_out
+125   5       4       AES-T2000           top.Trojan.LEAKBit
+126   9       8       AES-T2000           top.Trojan.SECRETKey
+127   9       8       AES-T2100           top.Trigger.Counter
+128   12      11      AES-T2100           top.Trigger.Tj_Trig
+129   9       8       AES-T2100           top.Trojan.COUNTER
+130   3       2       AES-T2100           top.Trojan.INV10_out
+131   3       2       AES-T2100           top.Trojan.INV11_out
+132   3       2       AES-T2100           top.Trojan.INV1_out
+133   3       2       AES-T2100           top.Trojan.INV2_out
+134   3       2       AES-T2100           top.Trojan.INV3_out
+135   3       2       AES-T2100           top.Trojan.INV4_out
+136   3       2       AES-T2100           top.Trojan.INV5_out
+137   3       2       AES-T2100           top.Trojan.INV6_out
+138   3       2       AES-T2100           top.Trojan.INV7_out
+139   3       2       AES-T2100           top.Trojan.INV8_out
+140   3       2       AES-T2100           top.Trojan.INV9_out
+141   5       4       AES-T2100           top.Trojan.LEAKBit
+142   9       8       AES-T2100           top.Trojan.SECRETKey
+143   11      11      AES-T2300           top.AES.out
+144   5       4       AES-T2300           top.AES.Trojan.r1
+145   5       4       AES-T2300           top.AES.Trojan.r2
+146   4       3       AES-T2300           top.AES.Trojan.trigger
+147   11      11      AES-T2400           top.AES.out
+148   5       4       AES-T2400           top.AES.Trojan.r1
+149   5       4       AES-T2400           top.AES.Trojan.r2
+150   4       3       AES-T2400           top.AES.Trojan.trigger
+151   11      11      AES-T2500           top.AES.out
+152   8       7       AES-T2500           top.AES.Trojan.counter
+153   5       4       AES-T2500           top.AES.Trojan.trigger
+154   11      11      AES-T2600           top.AES.out
+155   15      16      AES-T2600           top.AES.Trojan.counter
+156   5       4       AES-T2600           top.AES.Trojan.r1
+157   5       4       AES-T2600           top.AES.Trojan.trigger
+158   11      11      AES-T2700           top.AES.out
+159   8       7       AES-T2700           top.AES.Trojan.counter
+160   25      29      AES-T2700           top.AES.Trojan.counter2
+161   5       4       AES-T2700           top.AES.Trojan.trigger
+162   11      11      AES-T2800           top.AES.out
+163   9       8       AES-T2800           top.AES.Trojan.andOut
+164   8       7       AES-T2800           top.AES.Trojan.counter
+165   13      14      AES-T2800           top.AES.Trojan.counter2
+166   5       4       AES-T2800           top.AES.Trojan.r1
+167   5       4       AES-T2800           top.AES.Trojan.r2
+168   5       4       AES-T2800           top.AES.Trojan.trigger
+169   66      79      AES-T300            top.Trojan.enable1
+170   66      79      AES-T300            top.Trojan.enable2
+171   66      79      AES-T300            top.Trojan.enable3
+172   66      79      AES-T300            top.Trojan.enable4
+173   66      79      AES-T300            top.Trojan.enable5
+174   66      79      AES-T300            top.Trojan.enable6
+175   66      79      AES-T300            top.Trojan.enable7
+176   66      79      AES-T300            top.Trojan.enable8
+177   18      19      AES-T300            top.Trojan.SHReg1
+178   18      19      AES-T300            top.Trojan.SHReg2
+179   18      19      AES-T300            top.Trojan.SHReg3
+180   18      19      AES-T300            top.Trojan.SHReg4
+181   18      19      AES-T300            top.Trojan.SHReg5
+182   18      19      AES-T300            top.Trojan.SHReg6
+183   18      19      AES-T300            top.Trojan.SHReg7
+184   18      19      AES-T300            top.Trojan.SHReg8
+185   7       6       AES-T400            top.Tj_Trigger.Detected
+186   23      24      AES-T400            top.Tj_Trigger.tempClk1
+187   16      15      AES-T400            top.Tj_Trigger.tempClk2
+188   4       3       AES-T400            top.Tj_Trigger.Tj_Trig
+189   6       5       AES-T400            top.TSC.Antena
+190   13      12      AES-T400            top.TSC.Baud8GeneratorACC
+191   14      15      AES-T400            top.TSC.beep1
+192   20      21      AES-T400            top.TSC.beep2
+193   4       3       AES-T400            top.TSC.beeps
+194   11      11      AES-T400            top.TSC.MUX_Sel
+195   9       8       AES-T400            top.TSC.SHIFTReg
+196   18      19      AES-T500            top.Trojan.DynamicPower
+197   12      11      AES-T500            top.Trojan.State0
+198   19      20      AES-T500            top.Trojan.State1
+199   26      29      AES-T500            top.Trojan.State2
+200   33      38      AES-T500            top.Trojan.State3
+201   8       7       AES-T500            top.Trojan.Tj_Trig
+202   7       6       AES-T600            top.Trigger.Detected
+203   23      24      AES-T600            top.Trigger.tempClk1
+204   16      15      AES-T600            top.Trigger.tempClk2
+205   4       3       AES-T600            top.Trigger.Tj_Trig
+206   9       8       AES-T600            top.Trojan.COUNTER
+207   3       2       AES-T600            top.Trojan.INV10_out
+208   3       2       AES-T600            top.Trojan.INV11_out
+209   3       2       AES-T600            top.Trojan.INV1_out
+210   3       2       AES-T600            top.Trojan.INV2_out
+211   3       2       AES-T600            top.Trojan.INV3_out
+212   3       2       AES-T600            top.Trojan.INV4_out
+213   3       2       AES-T600            top.Trojan.INV5_out
+214   3       2       AES-T600            top.Trojan.INV6_out
+215   3       2       AES-T600            top.Trojan.INV7_out
+216   3       2       AES-T600            top.Trojan.INV8_out
+217   3       2       AES-T600            top.Trojan.INV9_out
+218   5       4       AES-T600            top.Trojan.LEAKBit
+219   9       8       AES-T600            top.Trojan.SECRETKey
+220   12      11      AES-T700            top.Trigger.Tj_Trig
+221   17      19      AES-T700            top.Trojan.lfsr.d0
+222   16      16      AES-T700            top.Trojan.lfsr.lfsr_stream
+223   516     641     AES-T700            top.Trojan.load
+224   12      11      AES-T800            top.Trigger.State0
+225   19      20      AES-T800            top.Trigger.State1
+226   26      29      AES-T800            top.Trigger.State2
+227   33      38      AES-T800            top.Trigger.State3
+228   8       7       AES-T800            top.Trigger.Tj_Trig
+229   17      19      AES-T800            top.Trojan.lfsr.d0
+230   16      16      AES-T800            top.Trojan.lfsr.lfsr_stream
+231   516     641     AES-T800            top.Trojan.load
+232   9       8       AES-T900            top.Trigger.Counter
+233   12      11      AES-T900            top.Trigger.Tj_Trig
+234   17      19      AES-T900            top.Trojan.lfsr.d0
+235   16      16      AES-T900            top.Trojan.lfsr.lfsr_stream
+236   516     641     AES-T900            top.Trojan.load
+237   89      109     PIC16F84-T100       top.Counter
+238   8       8       PIC16F84-T100       top.prog_adr_o
+239   89      109     PIC16F84-T200       top.Counter
+240   23      30      PIC16F84-T200       top.inst_reg
+241   7       6       PIC16F84-T200       top.Trojan_Trigger_Out
+242   89      109     PIC16F84-T300       top.Counter
+243   43      55      PIC16F84-T300       top.eep_dat_reg
+244   7       6       PIC16F84-T300       top.Trojan_Trigger_Out
+245   89      109     PIC16F84-T400       top.Counter
+246   33      43      PIC16F84-T400       top.eep_adr_reg
+247   7       6       PIC16F84-T400       top.Trojan_Trigger_Out
+248   9       9       RC6-T100            top.tj_t1_cnt
+249   4       3       RC6-T100            top.tj_t1_trig
+250   5       4       RC6-T200            top.tj_t2_s_exkey_mod
+251   4       3       RC6-T200            top.tj_t2_trig
+252   7       6       RC6-T300            top.tj_t3_flag
+253   11      11      RC6-T300            top.tj_t3_leak
+254   15      15      RC6-T600            top.u_keyex.s_busy
+255   22      26      RC6-T700            top.u_keyex.r_count
+256   43      76      RC6-T800            top.u_keyex.s_tmp
+257   6       5       RS232-T100          top.iRECEIVER.ena
+258   33      39      RS232-T100          top.iRECEIVER.rec_data_cntrH_1
+259   37      42      RS232-T100          top.iRECEIVER.rec_data_cntrH_2
+260   14      15      RS232-T100          top.iRECEIVER.rec_data_cntrH_3
+261   5       4       RS232-T100          top.iRECEIVER.rec_dataH
+262   5       4       RS232-T100          top.iRECEIVER.rec_readyH
+263   6       5       RS232-T100          top.iRECEIVER.rec_readyH_temp
+264   3       2       RS232-T200          top.iRECEIVER.clk_l
+265   28      35      RS232-T200          top.iRECEIVER.cntr_resetH
+266   11      10      RS232-T200          top.iRECEIVER.count_l
+267   19      25      RS232-T200          top.iRECEIVER.countH
+268   4       3       RS232-T200          top.iRECEIVER.ena
+269   44      49      RS232-T200          top.iRECEIVER.next_state
+270   33      39      RS232-T200          top.iRECEIVER.rec_data_cntrH_1
+271   34      39      RS232-T200          top.iRECEIVER.rec_data_cntrH_2
+272   24      30      RS232-T200          top.iRECEIVER.rec_readyInH
+273   23      29      RS232-T200          top.iRECEIVER.rstCountH
+274   19      25      RS232-T200          top.iRECEIVER.shiftH
+275   28      35      RS232-T2100         top.iRECEIVER.cntr_resetH
+276   19      25      RS232-T2100         top.iRECEIVER.countH
+277   20      24      RS232-T2100         top.iRECEIVER.ena
+278   44      49      RS232-T2100         top.iRECEIVER.next_state
+279   5       4       RS232-T2100         top.iRECEIVER.rec_dataH
+280   5       4       RS232-T2100         top.iRECEIVER.rec_readyH
+281   6       5       RS232-T2100         top.iRECEIVER.rec_readyH_temp
+282   24      30      RS232-T2100         top.iRECEIVER.rec_readyInH
+283   23      29      RS232-T2100         top.iRECEIVER.rstCountH
+284   19      25      RS232-T2100         top.iRECEIVER.shiftH
+285   6       5       RS232-T2100         top.rec_dataH_temp
+286   28      35      RS232-T2200         top.iRECEIVER.cntr_resetH
+287   19      25      RS232-T2200         top.iRECEIVER.countH
+288   19      25      RS232-T2200         top.iRECEIVER.ena
+289   44      49      RS232-T2200         top.iRECEIVER.next_state
+290   5       4       RS232-T2200         top.iRECEIVER.rec_dataH
+291   5       4       RS232-T2200         top.iRECEIVER.rec_readyH
+292   6       5       RS232-T2200         top.iRECEIVER.rec_readyH_temp
+293   24      30      RS232-T2200         top.iRECEIVER.rec_readyInH
+294   23      29      RS232-T2200         top.iRECEIVER.rstCountH
+295   19      25      RS232-T2200         top.iRECEIVER.shiftH
+296   6       5       RS232-T2200         top.rec_dataH_temp
+297   28      35      RS232-T2300         top.iRECEIVER.cntr_resetH
+298   19      25      RS232-T2300         top.iRECEIVER.countH
+299   24      30      RS232-T2300         top.iRECEIVER.ena
+300   44      49      RS232-T2300         top.iRECEIVER.next_state
+301   5       4       RS232-T2300         top.iRECEIVER.rec_dataH
+302   5       4       RS232-T2300         top.iRECEIVER.rec_readyH
+303   6       5       RS232-T2300         top.iRECEIVER.rec_readyH_temp
+304   24      30      RS232-T2300         top.iRECEIVER.rec_readyInH
+305   23      29      RS232-T2300         top.iRECEIVER.rstCountH
+306   19      25      RS232-T2300         top.iRECEIVER.shiftH
+307   6       5       RS232-T2300         top.rec_dataH_temp
+308   28      35      RS232-T2400         top.iRECEIVER.cntr_resetH
+309   19      25      RS232-T2400         top.iRECEIVER.countH
+310   22      27      RS232-T2400         top.iRECEIVER.ena
+311   44      49      RS232-T2400         top.iRECEIVER.next_state
+312   18      20      RS232-T2400         top.iRECEIVER.rec_data_cntrH_1
+313   20      23      RS232-T2400         top.iRECEIVER.rec_data_cntrH_2
+314   5       4       RS232-T2400         top.iRECEIVER.rec_dataH
+315   5       4       RS232-T2400         top.iRECEIVER.rec_readyH
+316   6       5       RS232-T2400         top.iRECEIVER.rec_readyH_temp
+317   24      30      RS232-T2400         top.iRECEIVER.rec_readyInH
+318   23      29      RS232-T2400         top.iRECEIVER.rstCountH
+319   19      25      RS232-T2400         top.iRECEIVER.shiftH
+320   6       5       RS232-T2400         top.rec_dataH_temp
+321   28      35      RS232-T300          top.iRECEIVER.cntr_resetH
+322   19      25      RS232-T300          top.iRECEIVER.countH
+323   44      49      RS232-T300          top.iRECEIVER.next_state
+324   24      30      RS232-T300          top.iRECEIVER.rec_readyInH
+325   23      29      RS232-T300          top.iRECEIVER.rstCountH
+326   19      25      RS232-T300          top.iRECEIVER.shiftH
+327   20      24      RS232-T300          top.iXMIT.uart_xmitH
+328   17      17      RS232-T400          top.cntr
+329   28      35      RS232-T400          top.iRECEIVER.cntr_resetH
+330   19      25      RS232-T400          top.iRECEIVER.countH
+331   44      49      RS232-T400          top.iRECEIVER.next_state
+332   24      30      RS232-T400          top.iRECEIVER.rec_readyInH
+333   23      29      RS232-T400          top.iRECEIVER.rstCountH
+334   19      25      RS232-T400          top.iRECEIVER.shiftH
+335   24      29      RS232-T400          top.iXMIT.uart_xmitH
+336   19      19      RS232-T400          top.rec_dataH_temp
+337   28      35      RS232-T500          top.iRECEIVER.cntr_resetH
+338   19      25      RS232-T500          top.iRECEIVER.countH
+339   44      49      RS232-T500          top.iRECEIVER.next_state
+340   24      30      RS232-T500          top.iRECEIVER.rec_readyInH
+341   23      29      RS232-T500          top.iRECEIVER.rstCountH
+342   19      25      RS232-T500          top.iRECEIVER.shiftH
+343   11      12      RS232-T500          top.iXMIT.count_in
+344   11      10      RS232-T500          top.iXMIT.DataSend_ena
+345   24      29      RS232-T500          top.iXMIT.uart_xmitH
+346   11      10      RS232-T500          top.iXMIT.xmit_doneH
+347   99      137     RS232-T500          top.iXMIT.xmit_ShiftRegH
+348   28      35      RS232-T600          top.iRECEIVER.cntr_resetH
+349   19      25      RS232-T600          top.iRECEIVER.countH
+350   44      49      RS232-T600          top.iRECEIVER.next_state
+351   24      30      RS232-T600          top.iRECEIVER.rec_readyInH
+352   23      29      RS232-T600          top.iRECEIVER.rstCountH
+353   19      25      RS232-T600          top.iRECEIVER.shiftH
+354   23      27      RS232-T600          top.iXMIT.bitCell_cntrH
+355   25      30      RS232-T600          top.iXMIT.bitCountH
+356   38      50      RS232-T600          top.iXMIT.countEnaH
+357   11      10      RS232-T600          top.iXMIT.DataSend_ena
+358   33      44      RS232-T600          top.iXMIT.ena_bitCountH
+359   28      37      RS232-T600          top.iXMIT.load_shiftRegH
+360   48      58      RS232-T600          top.iXMIT.next_state
+361   28      37      RS232-T600          top.iXMIT.rst_bitCountH
+362   26      34      RS232-T600          top.iXMIT.shiftEnaH
+363   49      58      RS232-T600          top.iXMIT.state_DataSend
+364   24      29      RS232-T600          top.iXMIT.uart_xmitH
+365   9       8       RS232-T600          top.iXMIT.xmit_doneH
+366   32      43      RS232-T600          top.iXMIT.xmit_doneInH
+367   120     175     RS232-T600          top.iXMIT.xmit_ShiftRegH
+368   29      35      RS232-T600          top.iXMIT.xmitDataSelH
+369   28      35      RS232-T700          top.iRECEIVER.cntr_resetH
+370   19      25      RS232-T700          top.iRECEIVER.countH
+371   44      49      RS232-T700          top.iRECEIVER.next_state
+372   24      30      RS232-T700          top.iRECEIVER.rec_readyInH
+373   23      29      RS232-T700          top.iRECEIVER.rstCountH
+374   19      25      RS232-T700          top.iRECEIVER.shiftH
+375   23      27      RS232-T700          top.iXMIT.bitCell_cntrH
+376   25      30      RS232-T700          top.iXMIT.bitCountH
+377   38      50      RS232-T700          top.iXMIT.countEnaH
+378   11      10      RS232-T700          top.iXMIT.DataSend_ena
+379   33      44      RS232-T700          top.iXMIT.ena_bitCountH
+380   28      37      RS232-T700          top.iXMIT.load_shiftRegH
+381   48      58      RS232-T700          top.iXMIT.next_state
+382   28      37      RS232-T700          top.iXMIT.rst_bitCountH
+383   26      34      RS232-T700          top.iXMIT.shiftEnaH
+384   49      58      RS232-T700          top.iXMIT.state_DataSend
+385   24      29      RS232-T700          top.iXMIT.uart_xmitH
+386   9       8       RS232-T700          top.iXMIT.xmit_doneH
+387   32      43      RS232-T700          top.iXMIT.xmit_doneInH
+388   120     175     RS232-T700          top.iXMIT.xmit_ShiftRegH
+389   29      35      RS232-T700          top.iXMIT.xmitDataSelH
+390   28      35      RS232-T800          top.iRECEIVER.cntr_resetH
+391   19      25      RS232-T800          top.iRECEIVER.countH
+392   44      49      RS232-T800          top.iRECEIVER.next_state
+393   33      39      RS232-T800          top.iRECEIVER.rec_data_cntrH_1
+394   37      42      RS232-T800          top.iRECEIVER.rec_data_cntrH_2
+395   14      15      RS232-T800          top.iRECEIVER.rec_data_cntrH_3
+396   8       7       RS232-T800          top.iRECEIVER.rec_readyH
+397   6       5       RS232-T800          top.iRECEIVER.rec_readyH_temp
+398   24      30      RS232-T800          top.iRECEIVER.rec_readyInH
+399   23      29      RS232-T800          top.iRECEIVER.rstCountH
+400   19      25      RS232-T800          top.iRECEIVER.shiftH
+401   23      27      RS232-T800          top.iXMIT.bitCell_cntrH
+402   25      30      RS232-T800          top.iXMIT.bitCountH
+403   38      50      RS232-T800          top.iXMIT.countEnaH
+404   33      44      RS232-T800          top.iXMIT.ena_bitCountH
+405   28      37      RS232-T800          top.iXMIT.load_shiftRegH
+406   48      58      RS232-T800          top.iXMIT.next_state
+407   28      37      RS232-T800          top.iXMIT.rst_bitCountH
+408   26      34      RS232-T800          top.iXMIT.shiftEnaH
+409   24      29      RS232-T800          top.iXMIT.uart_xmitH
+410   32      43      RS232-T800          top.iXMIT.xmit_doneInH
+411   126     184     RS232-T800          top.iXMIT.xmit_ShiftRegH
+412   29      35      RS232-T800          top.iXMIT.xmitDataSelH
+413   28      35      RS232-T900          top.iRECEIVER.cntr_resetH
+414   19      25      RS232-T900          top.iRECEIVER.countH
+415   44      49      RS232-T900          top.iRECEIVER.next_state
+416   24      30      RS232-T900          top.iRECEIVER.rec_readyInH
+417   23      29      RS232-T900          top.iRECEIVER.rstCountH
+418   19      25      RS232-T900          top.iRECEIVER.shiftH
+419   23      27      RS232-T900          top.iXMIT.bitCell_cntrH
+420   25      30      RS232-T900          top.iXMIT.bitCountH
+421   38      50      RS232-T900          top.iXMIT.countEnaH
+422   33      44      RS232-T900          top.iXMIT.ena_bitCountH
+423   28      37      RS232-T900          top.iXMIT.load_shiftRegH
+424   48      58      RS232-T900          top.iXMIT.next_state
+425   28      37      RS232-T900          top.iXMIT.rst_bitCountH
+426   26      34      RS232-T900          top.iXMIT.shiftEnaH
+427   24      29      RS232-T900          top.iXMIT.uart_xmitH
+428   32      43      RS232-T900          top.iXMIT.xmit_doneInH
+429   126     184     RS232-T900          top.iXMIT.xmit_ShiftRegH
+430   29      35      RS232-T900          top.iXMIT.xmitDataSelH
+431   28      35      RS232-T901          top.iRECEIVER.cntr_resetH
+432   19      25      RS232-T901          top.iRECEIVER.countH
+433   44      49      RS232-T901          top.iRECEIVER.next_state
+434   24      30      RS232-T901          top.iRECEIVER.rec_readyInH
+435   23      29      RS232-T901          top.iRECEIVER.rstCountH
+436   19      25      RS232-T901          top.iRECEIVER.shiftH
+437   23      27      RS232-T901          top.iXMIT.bitCell_cntrH
+438   25      30      RS232-T901          top.iXMIT.bitCountH
+439   43      58      RS232-T901          top.iXMIT.countEnaH
+440   11      10      RS232-T901          top.iXMIT.DataSend_ena
+441   36      49      RS232-T901          top.iXMIT.ena_bitCountH
+442   31      42      RS232-T901          top.iXMIT.load_shiftRegH
+443   57      69      RS232-T901          top.iXMIT.next_state
+444   31      42      RS232-T901          top.iXMIT.rst_bitCountH
+445   29      39      RS232-T901          top.iXMIT.shiftEnaH
+446   50      60      RS232-T901          top.iXMIT.state_DataSend
+447   24      29      RS232-T901          top.iXMIT.uart_xmitH
+448   35      48      RS232-T901          top.iXMIT.xmit_doneInH
+449   126     184     RS232-T901          top.iXMIT.xmit_ShiftRegH
+450   37      46      RS232-T901          top.iXMIT.xmitDataSelH
+451   5       4       adder-T100          top.tj_t2_tempSum1_mod
+452   7       6       adder-T100          top.tj_t2_trig
+453   121     140     adder-T600          top.tempSum1
+454   24      25      adder-T601          top.tempCarry1
+455   121     140     adder-T800          top.tempSum3
+456   9       9       ata-T100            top.tj_t1_cnt
+457   4       3       ata-T100            top.tj_t1_trig
+458   6       5       ata-T200            top.tj_t2_trig
+459   5       4       ata-T200            top.tj_t2_wb_ack_o_mod
+460   11      10      ata-T300            top.tj_t3_flag
+461   15      15      ata-T300            top.tj_t3_leak
+462   31      42      ata-T600            top.u1.PIO_timing_controller.done
+463   16      18      ata-T800            top.u1.cIORDY
+464   9       9       datetime-T100       top.tj_t1_cnt
+465   4       3       datetime-T100       top.tj_t1_trig
+466   5       4       datetime-T200       top.tj_t2_ack_o_mod
+467   6       5       datetime-T200       top.tj_t2_trig
+468   10      9       datetime-T300       top.tj_t3_flag
+469   14      14      datetime-T300       top.tj_t3_leak
+470   46      53      datetime-T600       top.ack_o
+471   14      13      datetime-T700       top.oalarm
+472   25      27      datetime-T800       top.incMonthL
+473   9       9       dmx512-T100         top.tj_t1_cnt
+474   4       3       dmx512-T100         top.tj_t1_trig
+475   11      10      dmx512-T200         top.tj_t2_trig
+476   5       4       dmx512-T200         top.tj_t2_tx_mod
+477   8       7       dmx512-T300         top.tj_t3_flag
+478   12      12      dmx512-T300         top.tj_t3_leak
+479   16      15      dmx512-T700         top.csr_do_reg
+480   40      54      dmx512-T800         top.tx
+481   9       9       ima_adpcm_enc_dec-T100top.tj_t1_cnt
+482   4       3       ima_adpcm_enc_dec-T100top.tj_t1_trig
+483   5       4       ima_adpcm_enc_dec-T200top.tj_t2_outPCM_mod
+484   6       5       ima_adpcm_enc_dec-T200top.tj_t2_trig
+485   9       8       ima_adpcm_enc_dec-T300top.tj_t3_flag
+486   13      13      ima_adpcm_enc_dec-T300top.tj_t3_leak
+487   9       9       interrupt_controller-T100top.tj_t1_cnt
+488   4       3       interrupt_controller-T100top.tj_t1_trig
+489   5       4       interrupt_controller-T200top.tj_t2_data_r_mod
+490   8       7       interrupt_controller-T200top.tj_t2_trig
+491   11      10      interrupt_controller-T300top.tj_t3_flag
+492   15      15      interrupt_controller-T300top.tj_t3_leak
+493   47      67      interrupt_controller-T600top.data_o
+494   16      16      interrupt_controller-T700top.dtack
+495   54      91      interrupt_controller-T800top.data_r
+496   9       9       mmuart-T100         top.tj_t1_cnt
+497   4       3       mmuart-T100         top.tj_t1_trig
+498   5       4       mmuart-T200         top.tj_t2_divisor_mod
+499   11      10      mmuart-T200         top.tj_t2_trig
+500   13      14      mmuart-T600         top.uart_tx
+501   31      34      mmuart-T700         top.divisor
+502   26      30      mmuart-T800         top.tx_wr
+503   9       9       p16c5x-T100         top.tj_t1_cnt
+504   4       3       p16c5x-T100         top.tj_t1_trig
+505   5       4       p16c5x-T200         top.tj_t2_CE_mod
+506   4       3       p16c5x-T200         top.tj_t2_trig
+507   7       6       p16c5x-T300         top.tj_t3_flag
+508   11      11      p16c5x-T300         top.tj_t3_leak
+509   29      32      p16c5x-T600         top.CE
+510   17      17      p16c5x-T700         top.IR
+511   31      34      p16c5x-T800         top.GOTO
+512   9       9       sasc-T100           top.tj_t1_cnt
+513   4       3       sasc-T100           top.tj_t1_trig
+514   6       5       sasc-T200           top.tj_t2_trig
+515   5       4       sasc-T200           top.tj_t2_txd_o_mod
+516   12      11      sasc-T300           top.tj_t4_active
+517   19      25      sasc-T600           top.rx_fifo.rp_p1
+518   19      25      sasc-T600           top.tx_fifo.rp_p1
+519   17      16      sasc-T700           top.rx_fifo.wp
+520   17      16      sasc-T700           top.tx_fifo.wp
+521   37      67      sasc-T800           top.rx_fifo.dout
+522   37      67      sasc-T800           top.tx_fifo.dout
+523   9       9       simple_spi-T100     top.tj_t1_cnt
+524   4       3       simple_spi-T100     top.tj_t1_trig
+525   5       4       simple_spi-T200     top.tj_t2_treg_mod
+526   7       6       simple_spi-T200     top.tj_t2_trig
+527   9       8       simple_spi-T300     top.tj_t3_flag
+528   13      13      simple_spi-T300     top.tj_t3_leak
+529   19      19      simple_spi-T600     top.wfwe
+530   19      19      simple_spi-T700     top.ack_o
+531   99      133     simple_spi-T800     top.dat_o
+532   9       9       sub86-T100          top.tj_t1_cnt
+533   5       4       sub86-T100          top.tj_t1_trig
+534   5       4       sub86-T200          top.tj_t2_RD_mod
+535   11      10      sub86-T200          top.tj_t2_trig
+536   9       8       sub86-T300          top.tj_t3_flag
+537   13      13      sub86-T300          top.tj_t3_leak
+538   157     195     sub86-T700          top.PC
+539   9       9       systemcdes-T100     top.tj_t1_cnt
+540   4       3       systemcdes-T100     top.tj_t1_trig
+541   8       7       systemcdes-T200     top.tj_t2_trig
+542   5       4       systemcdes-T200     top.tj_t2_wb_ack_o_mod
+543   10      9       systemcdes-T300     top.tj_t3_flag
+544   14      14      systemcdes-T300     top.tj_t3_leak
+545   18      20      systemcdes-T700     top.des.data_o
+546   22      25      systemcdes-T800     top.des.next_data_ready
+547   9       9       tiny_spi-T100       top.tj_t1_cnt
+548   7       6       tiny_spi-T100       top.tj_t1_trig
+549   5       4       tiny_spi-T200       top.tj_t2_sr8_mod
+550   6       5       tiny_spi-T200       top.tj_t2_trig
+551   13      12      tiny_spi-T300       top.tj_t3_flag
+552   17      17      tiny_spi-T300       top.tj_t3_leak
+553   19      25      tiny_spi-T600       top.ack_o
+554   9       8       tiny_spi-T700       top.bc
+555   41      71      tiny_spi-T800       top.sr8_sf
+556   9       9       uart2bus-T100       top.tj_t1_cnt
+557   4       3       uart2bus-T100       top.tj_t1_trig
+558   5       4       uart2bus-T200       top.tj_t2_int_req_mod
+559   4       3       uart2bus-T200       top.tj_t2_trig
+560   7       6       uart2bus-T300       top.tj_t3_flag
+561   11      11      uart2bus-T300       top.tj_t3_leak
+562   141     163     uart2bus-T600       top.baud_freq
+563   18      21      uart2bus-T700       top.uart1.baud_gen_1.counter
+564   193     229     uart2bus-T800       top.uart1.baud_gen_1.counter
+565   9       9       usb_phy-T100        top.tj_t1_cnt
+566   4       3       usb_phy-T100        top.tj_t1_trig
+567   4       3       usb_phy-T200        top.tj_t2_trig
+568   5       4       usb_phy-T200        top.tj_t2_txoe_mod
+569   9       8       usb_phy-T300        top.tj_t3_flag
+570   13      13      usb_phy-T300        top.tj_t3_leak
+571   11      10      usb_phy-T700        top.usb_rst
+572   71      91      usb_phy-T800        top.rst_cnt
+573   9       9       wb_lpc-T100         top.tj_t1_cnt
+574   4       3       wb_lpc-T100         top.tj_t1_trig
+575   8       7       wb_lpc-T200         top.tj_t2_trig
+576   5       4       wb_lpc-T200         top.tj_t2_wb_err_o_mod
+577   11      10      wb_lpc-T300         top.tj_t3_flag
+578   15      15      wb_lpc-T300         top.tj_t3_leak
+579   9       9       xtea-T100           top.tj_t1_cnt
+580   4       3       xtea-T100           top.tj_t1_trig
+581   5       4       xtea-T200           top.tj_t2_s_exkey_a_mod
+582   4       3       xtea-T200           top.tj_t2_trig
+583   7       6       xtea-T300           top.tj_t3_flag
+584   11      11      xtea-T300           top.tj_t3_leak
+
+=== CSV格式文件已保存 ===
+CSV文件路径: rsl_EXTRTL_dataset.csv
+总行数（含表头）: 587
+
+=== 检测结果评估（按电路）===
+格式: 电路名 | TP/FP/TN/FN | Precision/Recall/F1 | FPR/TNR/FDR | 总信号数/改动数/检测数
+------------------------------------------------------------------------------------------------------------------------
+AES-T100          : TP= 3 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1110/3/3)
+AES-T1000         : TP= 4 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1111/4/4)
+AES-T1100         : TP= 8 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1115/8/8)
+AES-T1200         : TP= 5 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1112/5/5)
+AES-T1300         : TP=17 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1124/17/17)
+AES-T1400         : TP=21 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1128/21/21)
+AES-T1500         : TP=18 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1125/18/18)
+AES-T1600         : TP=15 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1122/15/15)
+AES-T1700         : TP= 9 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1116/9/9)
+AES-T1800         : TP= 2 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1109/2/2)
+AES-T1900         : TP= 3 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1110/3/3)
+AES-T200          : TP= 3 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1110/3/3)
+AES-T2000         : TP=19 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1126/19/19)
+AES-T2100         : TP=16 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1123/16/16)
+AES-T2300         : TP= 4 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1111/4/4)
+AES-T2400         : TP= 4 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1111/4/4)
+AES-T2500         : TP= 3 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1110/3/3)
+AES-T2600         : TP= 4 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1111/4/4)
+AES-T2700         : TP= 4 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1111/4/4)
+AES-T2800         : TP= 7 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1114/7/7)
+AES-T300          : TP=16 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1123/16/16)
+AES-T400          : TP=11 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1118/11/11)
+AES-T500          : TP= 6 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1113/6/6)
+AES-T600          : TP=18 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1125/18/18)
+AES-T700          : TP= 4 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1111/4/4)
+AES-T800          : TP= 8 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1115/8/8)
+AES-T900          : TP= 5 FP= 0 TN=1107 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (1112/5/5)
+PIC16F84-T100     : TP= 2 FP= 0 TN= 131 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (133/2/2)
+PIC16F84-T200     : TP= 3 FP= 0 TN= 130 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (133/3/3)
+PIC16F84-T300     : TP= 3 FP= 0 TN= 130 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (133/3/3)
+PIC16F84-T400     : TP= 3 FP= 0 TN= 130 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (133/3/3)
+RC6-T100          : TP= 2 FP= 0 TN=  84 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (86/2/2)
+RC6-T200          : TP= 2 FP= 0 TN=  84 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (86/2/2)
+RC6-T300          : TP= 2 FP= 0 TN=  84 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (86/2/2)
+RC6-T600          : TP= 1 FP= 0 TN=  83 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (84/1/1)
+RC6-T700          : TP= 1 FP= 0 TN=  83 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (84/1/1)
+RC6-T800          : TP= 1 FP= 0 TN=  83 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (84/1/1)
+RS232-T100        : TP= 7 FP= 0 TN=  28 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (35/7/7)
+RS232-T200        : TP=11 FP= 0 TN=  23 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (34/11/11)
+RS232-T2100       : TP=11 FP= 0 TN=  21 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (32/11/11)
+RS232-T2200       : TP=11 FP= 0 TN=  21 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (32/11/11)
+RS232-T2300       : TP=11 FP= 0 TN=  21 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (32/11/11)
+RS232-T2400       : TP=13 FP= 0 TN=  21 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (34/13/13)
+RS232-T300        : TP= 7 FP= 0 TN=  22 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (29/7/7)
+RS232-T400        : TP= 9 FP= 0 TN=  21 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (30/9/9)
+RS232-T500        : TP=11 FP= 0 TN=  20 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (31/11/11)
+RS232-T600        : TP=21 FP= 0 TN=  10 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (31/21/21)
+RS232-T700        : TP=21 FP= 0 TN=  10 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (31/21/21)
+RS232-T800        : TP=23 FP= 0 TN=  10 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (33/23/23)
+RS232-T900        : TP=18 FP= 0 TN=  11 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (29/18/18)
+RS232-T901        : TP=20 FP= 0 TN=  11 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (31/20/20)
+adder-T100        : TP= 2 FP= 0 TN= 127 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (129/2/2)
+adder-T600        : TP= 1 FP= 0 TN= 126 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (127/1/1)
+adder-T601        : TP= 1 FP= 0 TN= 126 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (127/1/1)
+adder-T800        : TP= 1 FP= 0 TN= 126 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (127/1/1)
+ata-T100          : TP= 2 FP= 0 TN=  98 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (100/2/2)
+ata-T200          : TP= 2 FP= 0 TN=  98 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (100/2/2)
+ata-T300          : TP= 2 FP= 0 TN=  98 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (100/2/2)
+ata-T600          : TP= 1 FP= 0 TN=  98 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (99/1/1)
+ata-T800          : TP= 1 FP= 0 TN=  98 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (99/1/1)
+datetime-T100     : TP= 2 FP= 0 TN=  87 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (89/2/2)
+datetime-T200     : TP= 2 FP= 0 TN=  87 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (89/2/2)
+datetime-T300     : TP= 2 FP= 0 TN=  87 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (89/2/2)
+datetime-T600     : TP= 1 FP= 0 TN=  86 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (87/1/1)
+datetime-T700     : TP= 1 FP= 0 TN=  86 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (87/1/1)
+datetime-T800     : TP= 1 FP= 0 TN=  86 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (87/1/1)
+dmx512-T100       : TP= 2 FP= 0 TN=  27 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (29/2/2)
+dmx512-T200       : TP= 2 FP= 0 TN=  27 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (29/2/2)
+dmx512-T300       : TP= 2 FP= 0 TN=  27 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (29/2/2)
+dmx512-T700       : TP= 1 FP= 0 TN=  26 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (27/1/1)
+dmx512-T800       : TP= 1 FP= 0 TN=  26 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (27/1/1)
+ima_adpcm_enc_dec-T100: TP= 2 FP= 0 TN=  14 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (16/2/2)
+ima_adpcm_enc_dec-T200: TP= 2 FP= 0 TN=  14 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (16/2/2)
+ima_adpcm_enc_dec-T300: TP= 2 FP= 0 TN=  14 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (16/2/2)
+interrupt_controller-T100: TP= 2 FP= 0 TN=  40 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (42/2/2)
+interrupt_controller-T200: TP= 2 FP= 0 TN=  40 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (42/2/2)
+interrupt_controller-T300: TP= 2 FP= 0 TN=  40 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (42/2/2)
+interrupt_controller-T600: TP= 1 FP= 0 TN=  40 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (41/1/1)
+interrupt_controller-T700: TP= 1 FP= 0 TN=  39 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (40/1/1)
+interrupt_controller-T800: TP= 1 FP= 0 TN=  39 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (40/1/1)
+mmuart-T100       : TP= 2 FP= 0 TN=  21 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (23/2/2)
+mmuart-T200       : TP= 2 FP= 0 TN=  21 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (23/2/2)
+mmuart-T600       : TP= 1 FP= 0 TN=  20 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (21/1/1)
+mmuart-T700       : TP= 1 FP= 0 TN=  20 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (21/1/1)
+mmuart-T800       : TP= 1 FP= 0 TN=  20 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (21/1/1)
+p16c5x-T100       : TP= 2 FP= 0 TN= 117 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (119/2/2)
+p16c5x-T200       : TP= 2 FP= 0 TN= 117 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (119/2/2)
+p16c5x-T300       : TP= 2 FP= 0 TN= 117 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (119/2/2)
+p16c5x-T600       : TP= 1 FP= 0 TN= 116 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (117/1/1)
+p16c5x-T700       : TP= 1 FP= 0 TN= 116 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (117/1/1)
+p16c5x-T800       : TP= 1 FP= 0 TN= 116 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (117/1/1)
+sasc-T100         : TP= 2 FP= 0 TN=  42 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (44/2/2)
+sasc-T200         : TP= 2 FP= 0 TN=  42 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (44/2/2)
+sasc-T300         : TP= 1 FP= 0 TN=  42 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (43/1/1)
+sasc-T600         : TP= 2 FP= 0 TN=  40 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (42/2/2)
+sasc-T700         : TP= 2 FP= 0 TN=  40 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (42/2/2)
+sasc-T800         : TP= 2 FP= 0 TN=  40 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (42/2/2)
+simple_spi-T100   : TP= 2 FP= 0 TN=  55 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (57/2/2)
+simple_spi-T200   : TP= 2 FP= 0 TN=  55 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (57/2/2)
+simple_spi-T300   : TP= 2 FP= 0 TN=  55 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (57/2/2)
+simple_spi-T600   : TP= 1 FP= 0 TN=  54 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (55/1/1)
+simple_spi-T700   : TP= 1 FP= 0 TN=  54 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (55/1/1)
+simple_spi-T800   : TP= 1 FP= 0 TN=  54 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (55/1/1)
+sub86-T100        : TP= 2 FP= 0 TN=  61 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (63/2/2)
+sub86-T200        : TP= 2 FP= 0 TN=  61 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (63/2/2)
+sub86-T300        : TP= 2 FP= 0 TN=  61 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (63/2/2)
+sub86-T700        : TP= 1 FP= 0 TN=  60 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (61/1/1)
+systemcdes-T100   : TP= 2 FP= 0 TN=  54 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (56/2/2)
+systemcdes-T200   : TP= 2 FP= 0 TN=  54 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (56/2/2)
+systemcdes-T300   : TP= 2 FP= 0 TN=  54 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (56/2/2)
+systemcdes-T700   : TP= 1 FP= 0 TN=  53 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (54/1/1)
+systemcdes-T800   : TP= 1 FP= 0 TN=  53 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (54/1/1)
+tiny_spi-T100     : TP= 2 FP= 0 TN=  27 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (29/2/2)
+tiny_spi-T200     : TP= 2 FP= 0 TN=  27 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (29/2/2)
+tiny_spi-T300     : TP= 2 FP= 0 TN=  27 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (29/2/2)
+tiny_spi-T600     : TP= 1 FP= 0 TN=  26 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (27/1/1)
+tiny_spi-T700     : TP= 1 FP= 0 TN=  27 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (28/1/1)
+tiny_spi-T800     : TP= 1 FP= 0 TN=  26 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (27/1/1)
+uart2bus-T100     : TP= 2 FP= 0 TN=  47 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (49/2/2)
+uart2bus-T200     : TP= 2 FP= 0 TN=  47 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (49/2/2)
+uart2bus-T300     : TP= 2 FP= 0 TN=  47 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (49/2/2)
+uart2bus-T600     : TP= 1 FP= 0 TN=  47 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (48/1/1)
+uart2bus-T700     : TP= 1 FP= 0 TN=  46 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (47/1/1)
+uart2bus-T800     : TP= 1 FP= 0 TN=  46 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (47/1/1)
+usb_phy-T100      : TP= 2 FP= 0 TN=  64 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (66/2/2)
+usb_phy-T200      : TP= 2 FP= 0 TN=  64 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (66/2/2)
+usb_phy-T300      : TP= 2 FP= 0 TN=  64 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (66/2/2)
+usb_phy-T700      : TP= 1 FP= 0 TN=  63 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (64/1/1)
+usb_phy-T800      : TP= 1 FP= 0 TN=  63 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (64/1/1)
+wb_lpc-T100       : TP= 2 FP= 0 TN=  16 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (18/2/2)
+wb_lpc-T200       : TP= 2 FP= 0 TN=  16 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (18/2/2)
+wb_lpc-T300       : TP= 2 FP= 0 TN=  16 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (18/2/2)
+xtea-T100         : TP= 2 FP= 0 TN=  97 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (99/2/2)
+xtea-T200         : TP= 2 FP= 0 TN=  97 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (99/2/2)
+xtea-T300         : TP= 2 FP= 0 TN=  97 FN= 0 | P=1.000 R=1.000 F1=1.000 | FPR=0.0000 TNR=1.000 FDR=0.000 | (99/2/2)
+------------------------------------------------------------------------------------------------------------------------
+
+=== 总体评估结果 ===
+混淆矩阵: TP=585, FP=0, TN=36070, FN=0
+基础指标: Precision=1.0000, Recall=1.0000, F1=1.0000
+新增指标: FPR=0.0000(0.00%), TNR=1.0000, FDR=0.0000
+其他指标: Accuracy=1.0000 (注意: 不平衡数据集上Accuracy可能误导)
+
+指标说明:
+  FPR(False Positive Rate): 假正率 = FP/(FP+TN), 正常信号被误报的比例
+  TNR(True Negative Rate):  真负率 = TN/(TN+FP), 正常信号被正确识别的比例
+  FDR(False Discovery Rate): 错误发现率 = FP/(TP+FP), 检测结果中误报的比例
+    个数:33861995,top1%=(0.983:36118),区间[-0.708- 1.000],sum=5555624.0,mean= 0.164,方差=0.0511,标准差=0.2261
+[GraphWalk] total time = 252.931 s
