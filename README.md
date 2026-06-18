@@ -69,7 +69,7 @@ VeriWalk/
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/herg2009/VeriWalk.git
 cd VeriWalk
 
 # Create a conda environment (recommended)
